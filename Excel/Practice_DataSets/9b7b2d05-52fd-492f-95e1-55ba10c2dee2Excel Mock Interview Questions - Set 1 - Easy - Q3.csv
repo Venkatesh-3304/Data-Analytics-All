@@ -1,0 +1,15 @@
+"In UCLA online store, only full-time students with GPA over 4.5 get a discount otherwise they don't; 
+ The system generates a random user - check if she/he gets a discount and return ""Yes"" for discount, else ""No"".",,
+,,
+,,
+,,
+,,
+,,
+DATA:,,
+User number,29,"Data always changes. Beware! 
+ Make sure you use Cells reference and not hard-coded values."
+Full time/Part-Time,Part-Time,
+GPA,4.42,
+,,
+,,
+Answer:,,
