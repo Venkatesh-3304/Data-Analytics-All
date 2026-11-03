@@ -1,0 +1,23 @@
+-- ============================================
+-- Day 13: Window Functions Part 1 (Ranking) - EASY Level
+-- Student Question Bank
+-- ============================================
+-- Total Questions: 100 (50 Conceptual + 50 Practical)
+-- Focus: ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause, PARTITION BY basics
+-- ============================================
+-- Concepts ALLOWED:
+--   Days 1-12: All previous concepts (SELECT, WHERE, JOINs, Aggregates, 
+--              GROUP BY, HAVING, CASE WHEN, Subqueries, CTEs, Set Operations)
+--   Day 13: OVER clause, PARTITION BY, ORDER BY in window functions,
+--           ROW_NUMBER(), RANK(), DENSE_RANK(), frame clause basics
+-- ============================================
+-- Concepts NOT ALLOWED:
+--   - LEAD(), LAG()
+--   - FIRST_VALUE(), LAST_VALUE(), NTH_VALUE()
+--   - Running totals (SUM OVER), Moving averages (AVG OVER)
+--   - Advanced window frames (ROWS BETWEEN, RANGE BETWEEN)
+--   - NTILE, PERCENT_RANK
+--   - Transactions, Views, Functions, Procedures
+-- ============================================
+-- Database: RetailMart (PostgreSQL 16)
+-- ============================================

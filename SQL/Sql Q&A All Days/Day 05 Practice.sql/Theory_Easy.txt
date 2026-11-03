@@ -1,0 +1,155 @@
+🔴 Q1: What is an aggregate function in SQL? Explain with examples.
+🟢 A: An aggregate function performs a calculation on multiple rows and returns a single summarized value.
+Examples include COUNT, SUM, AVG, MIN, and MAX.
+Example: AVG(price) calculates the average price from many rows and returns one number.
+
+🔴 Q2: What is the difference between COUNT(*) and COUNT(column_name)?
+🟢 A: COUNT(*) counts all rows, including rows with NULL values.
+COUNT(column_name) counts only non-NULL values in that column.
+
+🔴 Q3: Explain the purpose of the SUM() function.
+🟢 A: SUM() is used to calculate the total of a numeric column across multiple rows.
+
+🔴 Q4: What does the AVG() function calculate?
+🟢 A: AVG() calculates the mean (average) of non-NULL numeric values in a column.
+
+🔴 Q5: Explain the difference between MIN() and MAX() functions.
+🟢 A: MIN() returns the smallest value, while MAX() returns the largest value in a column.
+
+🔴 Q6: What is the purpose of the GROUP BY clause?
+🟢 A: GROUP BY groups rows with the same values so aggregate functions can be applied per group instead of the whole table.
+
+🔴 Q7: Can we use aggregate functions without GROUP BY? Explain with an example.
+🟢 A: Yes. Without GROUP BY, the aggregate function works on the entire table.
+Example: COUNT(*) returns the total number of rows.
+
+🔴 Q8: What is the difference between WHERE and HAVING clause?
+🟢 A: WHERE filters rows before aggregation, while HAVING filters groups after aggregation.
+
+🔴 Q9: Explain why we cannot use WHERE clause to filter aggregated results.
+🟢 A: Because WHERE is executed before aggregation. Aggregated values do not exist at that stage.
+
+🔴 Q10: What is the order of execution: GROUP BY or HAVING?
+🟢 A: GROUP BY is executed before HAVING.
+
+🔴 Q11: Can we use multiple aggregate functions in a single query? Give an example.
+🟢 A: Yes. Example: calculating both total and average in one query.
+
+🔴 Q12: What does COUNT(DISTINCT column_name) do?
+🟢 A: It counts the number of unique non-NULL values in a column.
+
+🔴 Q13: Explain how NULL values are handled in aggregate functions.
+🟢 A: Most aggregates ignore NULL values.
+COUNT(*) counts all rows, but others ignore NULLs.
+
+🔴 Q14: What is the purpose of using aliases with aggregate functions?
+🟢 A: Aliases make results readable and meaningful, especially in reports.
+
+🔴 Q15: Can we use ORDER BY with aggregate functions? Explain.
+🟢 A: Yes. ORDER BY is commonly used to sort aggregated results.
+
+🔴 Q16: What happens when you use GROUP BY with multiple columns?
+🟢 A: Rows are grouped by unique combinations of those columns.
+
+🔴 Q17: Explain the syntax of the HAVING clause.
+🟢 A: HAVING is written after GROUP BY and is used to filter aggregated results.
+
+🔴 Q18: Can we use column aliases in GROUP BY clause?
+🟢 A: No. In PostgreSQL, aliases cannot be used in GROUP BY.
+
+🔴 Q19: What is the difference between SUM() and COUNT()?
+🟢 A: SUM() adds numeric values, while COUNT() counts rows.
+
+🔴 Q20: Explain why AVG() might give different results than SUM()/COUNT().
+🟢 A: Because AVG() ignores NULL values, while COUNT(*) does not.
+
+🔴 Q21: What does GROUP BY do to duplicate values in a column?
+🟢 A: Duplicate values are grouped together into one group.
+
+🔴 Q22: Can we use aggregate functions in the SELECT clause without grouping all non-aggregated columns?
+🟢 A: No. All non-aggregated columns must appear in GROUP BY.
+
+🔴 Q23: Explain how to find the total count of rows in a table.
+🟢 A: Use COUNT(*), which counts every row in the table.
+
+🔴 Q24: What is the result of SUM() on a column with all NULL values?
+🟢 A: The result is NULL.
+
+🔴 Q25: Can HAVING clause be used without GROUP BY?
+🟢 A: Yes. It can filter the result of a single aggregated group.
+
+🔴 Q26: What is the purpose of using ROUND() with AVG() function?
+🟢 A: To control the number of decimal places in the result.
+
+🔴 Q27: Explain the order of clauses: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY.
+🟢 A: Logical execution order is:
+FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY
+
+🔴 Q28: What happens if you use an aggregate function on an empty table?
+🟢 A: COUNT returns 0, while others return NULL.
+
+🔴 Q29: Can we use WHERE and HAVING together in the same query?
+🟢 A: Yes. WHERE filters rows, HAVING filters groups.
+
+🔴 Q30: Explain how to count only non-null values in a column.
+🟢 A: Use COUNT(column_name).
+
+🔴 Q31: What is the difference between grouping by one column vs multiple columns?
+🟢 A: One column gives broader groups; multiple columns give more detailed groups.
+
+🔴 Q32: Can we use aggregate functions in WHERE clause? Why or why not?
+🟢 A: No. Aggregates are calculated after WHERE executes.
+
+🔴 Q33: Explain the purpose of COUNT(*) vs COUNT(1).
+🟢 A: In PostgreSQL, both behave the same and count rows.
+
+🔴 Q34: What does it mean when AVG() returns a decimal value?
+🟢 A: The average is not a whole number.
+
+🔴 Q35: How do aggregate functions handle text/string columns?
+🟢 A: Only MIN() and MAX() work, using alphabetical order.
+
+🔴 Q36: Can we apply multiple conditions in HAVING clause?
+🟢 A: Yes, using logical operators like AND and OR.
+
+🔴 Q37: What is the result of MAX() on a date column?
+🟢 A: It returns the latest date.
+
+🔴 Q38: Explain how MIN() works on string/text columns.
+🟢 A: It returns the alphabetically smallest value.
+
+🔴 Q39: What happens when we GROUP BY a column with NULL values?
+🟢 A: All NULL values are grouped into one group.
+
+🔴 Q40: Can we use DISTINCT inside aggregate functions? Give examples.
+🟢 A: Yes. It ensures only unique values are considered.
+
+🔴 Q41: What is the purpose of using CAST or ROUND with aggregate functions?
+🟢 A: To control data type or precision of the result.
+
+🔴 Q42: Explain the difference between filtering with WHERE before vs HAVING after aggregation.
+🟢 A: WHERE reduces rows first; HAVING filters aggregated groups.
+
+🔴 Q43: Can we sort results by an aggregated column that's not in SELECT?
+🟢 A: Yes, PostgreSQL allows it.
+
+🔴 Q44: What does SUM(DISTINCT column_name) do?
+🟢 A: Adds only unique values from the column.
+
+🔴 Q45: Explain how to find minimum and maximum values in the same query.
+🟢 A: Use both MIN() and MAX() together.
+
+🔴 Q46: What is the result of COUNT() on a column with empty strings vs NULL?
+🟢 A: Empty strings are counted; NULL values are ignored.
+
+🔴 Q47: Can we use LIMIT with GROUP BY queries?
+🟢 A: Yes, to restrict the number of grouped results.
+
+🔴 Q48: Explain how to calculate percentage using aggregate functions.
+🟢 A: Divide one aggregate by another and multiply by 100.
+
+🔴 Q49: What is the difference between COUNT(column) and SUM(1)?
+🟢 A: COUNT(column) ignores NULLs; SUM(1) counts rows.
+
+🔴 Q50: Can we nest aggregate functions like SUM(AVG(column))?
+🟢 A: No. Aggregates cannot be nested directly; subqueries are required.

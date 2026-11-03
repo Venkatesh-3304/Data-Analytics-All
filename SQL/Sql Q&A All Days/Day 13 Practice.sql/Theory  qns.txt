@@ -1,0 +1,154 @@
+-- =====================
+-- CONCEPTUAL QUESTIONS (Q1-Q50)
+-- =====================
+
+-- Q1. Flipkart's analytics team is new to window functions. The manager asks: 
+-- "What is the fundamental difference between aggregate functions and window functions 
+-- in terms of how they handle the result set?"
+
+-- Q2. A junior developer at Zomato is confused about why window functions are called 
+-- "window" functions. How would you explain the concept of a "window" over data to them?
+
+-- Q3. BigBasket's data analyst sees ROW_NUMBER() being used in a query. She asks: 
+-- "Will ROW_NUMBER() ever produce duplicate numbers for different rows in the same partition?"
+
+-- Q4. Myntra's reporting team is debating whether to use RANK() or DENSE_RANK() for 
+-- their fashion designer leaderboard. What is the key difference between these two functions?
+
+-- Q5. An Amazon India intern asks: "If I use ROW_NUMBER() without PARTITION BY, 
+-- what happens? Does it throw an error?"
+
+-- Q6. Swiggy's tech lead explains window functions to freshers. He says OVER() is mandatory. 
+-- What does the OVER clause actually define for a window function?
+
+-- Q7. PhonePe's analytics team wants to understand: "When we use PARTITION BY in a window 
+-- function, does it reduce the number of rows in the output like GROUP BY does?"
+
+-- Q8. Ola's data team notices that ORDER BY inside OVER() behaves differently than 
+-- ORDER BY at the end of a query. What is the purpose of ORDER BY within the OVER clause?
+
+-- Q9. A Paytm developer sees this syntax: RANK() OVER (ORDER BY amount DESC). 
+-- She asks: "What happens to ties - rows with the same amount value?"
+
+-- Q10. IRCTC's reporting manager asks: "If three passengers have the same booking amount 
+-- and I use RANK(), what numbers will they get, and what number will the next passenger get?"
+
+-- Q11. Reliance Retail's analyst is confused: "If I use DENSE_RANK() and three items 
+-- have the same sales, what rank does the next different item receive?"
+
+-- Q12. A Flipkart fresher asks: "Can I use ROW_NUMBER() without any ORDER BY inside OVER()? 
+-- What would happen to the numbering?"
+
+-- Q13. Zomato's BI team wants to know: "Can we use multiple columns in the ORDER BY 
+-- clause inside OVER()? How does that affect ranking?"
+
+-- Q14. BigBasket's data engineer asks: "What is the purpose of PARTITION BY in window functions? 
+-- Can you explain with a simple grocery analogy?"
+
+-- Q15. Myntra's junior developer sees: ROW_NUMBER() OVER (PARTITION BY category ORDER BY sales DESC). 
+-- She asks: "Does the numbering restart for each category?"
+
+-- Q16. Amazon India's analyst is curious: "If I have 1000 orders and partition by customer_id, 
+-- does each customer's orders get numbered starting from 1?"
+
+-- Q17. A Swiggy intern asks: "Can I combine PARTITION BY and ORDER BY in the same OVER clause? 
+-- Which one should come first?"
+
+-- Q18. PhonePe's team lead asks freshers: "What's the output type of ROW_NUMBER(), RANK(), 
+-- and DENSE_RANK() - is it integer, decimal, or something else?"
+
+-- Q19. Ola's analytics head explains: "RANK() can skip numbers but DENSE_RANK() cannot." 
+-- Can you explain this with a simple driver rating example?
+
+-- Q20. Paytm's data analyst wonders: "If all rows in a partition have the same value 
+-- for the ORDER BY column, what ranks does RANK() assign?"
+
+-- Q21. IRCTC's developer asks: "Can window functions be used in the WHERE clause 
+-- to filter results directly?"
+
+-- Q22. Reliance Retail's fresher sees an error when putting ROW_NUMBER() in WHERE clause. 
+-- Why does this happen, and what's the workaround?
+
+-- Q23. Flipkart's manager asks: "If I want only the top 3 products per category, 
+-- can I directly filter using ROW_NUMBER() = 3 in WHERE?"
+
+-- Q24. A Zomato analyst needs top 5 restaurants per city. She asks: 
+-- "How do I filter window function results if I cannot use WHERE directly?"
+
+-- Q25. BigBasket's BI developer asks: "What is a derived table or subquery approach 
+-- for filtering window function results?"
+
+-- Q26. Myntra's tech lead explains: "CTEs work great with window functions for filtering." 
+-- Why are CTEs particularly useful when working with window functions?
+
+-- Q27. Amazon India's junior developer asks: "Can I use window functions alongside 
+-- regular aggregate functions like SUM() and COUNT() in the same query?"
+
+-- Q28. Swiggy's analyst wonders: "If I use GROUP BY and then apply ROW_NUMBER(), 
+-- does the window function work on grouped results or original rows?"
+
+-- Q29. PhonePe's data team asks: "Can we use expressions or calculations inside 
+-- the ORDER BY clause of a window function?"
+
+-- Q30. Ola's reporting team asks: "What happens if we use DESC in ORDER BY inside 
+-- OVER() for ROW_NUMBER()? Does row 1 become the highest or lowest value?"
+
+-- Q31. A Paytm intern is confused: "Can I give an alias to a window function result 
+-- and use that alias in the same SELECT list?"
+
+-- Q32. IRCTC's developer sees: total_amount, RANK() OVER (ORDER BY total_amount DESC) as rnk. 
+-- Can he use 'rnk' in another calculation in the same SELECT?
+
+-- Q33. Reliance Retail's analyst asks: "What's the syntax difference between 
+-- ROW_NUMBER() OVER() and ROW_NUMBER() OVER (ORDER BY column)?"
+
+-- Q34. Flipkart's data engineer asks: "When would you use PARTITION BY with multiple columns? 
+-- Can you give a retail example?"
+
+-- Q35. Zomato's junior analyst asks: "If I partition by city and restaurant_type, 
+-- does each unique combination get separate numbering?"
+
+-- Q36. BigBasket's BI team leader explains frame clause basics. 
+-- What does "frame clause" mean in the context of window functions?
+
+-- Q37. Myntra's fresher asks: "For ROW_NUMBER(), RANK(), and DENSE_RANK(), 
+-- do I need to worry about frame clauses?"
+
+-- Q38. Amazon India's analyst wonders: "Is there a default frame when I don't specify one? 
+-- What is that default?"
+
+-- Q39. Swiggy's tech lead asks: "Can I use CASE WHEN expressions inside the 
+-- PARTITION BY clause of a window function?"
+
+-- Q40. PhonePe's reporting team asks: "Can window functions be used in the 
+-- HAVING clause to filter grouped results?"
+
+-- Q41. Ola's data analyst asks: "What's the execution order - does the window function 
+-- run before or after WHERE clause filtering?"
+
+-- Q42. A Paytm developer asks: "If I have NULL values in my ORDER BY column inside OVER(), 
+-- where do NULLs appear in the ranking - first or last?"
+
+-- Q43. IRCTC's fresher asks: "Can I use NULLS FIRST or NULLS LAST inside the 
+-- ORDER BY clause of a window function?"
+
+-- Q44. Reliance Retail's analyst wants to know: "How do I handle ties differently - 
+-- give me a retail scenario where RANK() is better than DENSE_RANK()?"
+
+-- Q45. Flipkart's BI manager asks: "In what business scenario would ROW_NUMBER() 
+-- be preferred over RANK() even when there are ties?"
+
+-- Q46. Zomato's data team asks: "Can we use the same window function multiple times 
+-- in a single SELECT with different PARTITION BY clauses?"
+
+-- Q47. BigBasket's analyst sees a query with three different ROW_NUMBER() calls. 
+-- She asks: "Does this impact performance significantly?"
+
+-- Q48. Myntra's junior developer asks: "Can I use aggregate functions like COUNT(*) 
+-- inside the ORDER BY clause of a window function?"
+
+-- Q49. Amazon India's tech lead asks: "What is a 'window specification' and 
+-- can it be named and reused?"
+
+-- Q50. Swiggy's fresher asks: "What does WINDOW clause do? Can I define a named 
+-- window and use it with multiple functions?"
