@@ -1,0 +1,1001 @@
+OrderID,Region,Product,Category,SalesChannel,Month,Year,Salesperson,UnitsSold,UnitPrice,Discount,Revenue
+1,East,Laptop,Furniture,Retail,August,2023,Salesperson_13,18,1393.79,0.26,18565.2828
+2,West,Laptop,Office Supplies,Wholesale,December,2023,Salesperson_6,11,1393.79,0.26,11345.450599999998
+3,North,Laptop,Furniture,Online,November,2023,Salesperson_5,20,1393.79,0.26,20628.092
+4,East,Accessories,Furniture,Wholesale,January,2023,Salesperson_9,5,1393.79,0.26,5157.023
+5,East,Desktop,Office Supplies,Online,April,2023,Salesperson_16,19,1393.79,0.26,19596.6874
+6,West,Accessories,Electronics,Retail,September,2023,Salesperson_2,22,1393.79,0.26,22690.901199999997
+7,North,Desktop,Office Supplies,Retail,September,2023,Salesperson_1,19,1393.79,0.26,19596.6874
+8,North,Accessories,Electronics,Retail,May,2023,Salesperson_8,47,1393.79,0.26,48476.0162
+9,East,Accessories,Office Supplies,Online,April,2022,Salesperson_19,16,1393.79,0.26,16502.4736
+10,South,Smartphone,Office Supplies,Retail,March,2022,Salesperson_11,24,1393.79,0.26,24753.7104
+11,East,Accessories,Furniture,Online,March,2023,Salesperson_12,41,1393.79,0.26,42287.588599999995
+12,East,Tablet,Electronics,Wholesale,December,2023,Salesperson_12,4,1393.79,0.26,4125.6184
+13,East,Smartphone,Furniture,Online,May,2022,Salesperson_7,15,1393.79,0.26,15471.069
+14,East,Accessories,Electronics,Wholesale,October,2023,Salesperson_13,25,1393.79,0.26,25785.114999999998
+15,West,Laptop,Office Supplies,Online,January,2023,Salesperson_8,44,1393.79,0.26,45381.80239999999
+16,North,Tablet,Office Supplies,Wholesale,May,2022,Salesperson_9,35,1393.79,0.26,36099.161
+17,West,Tablet,Electronics,Retail,June,2022,Salesperson_7,14,1393.79,0.26,14439.664399999998
+18,West,Tablet,Furniture,Wholesale,July,2022,Salesperson_15,49,1393.79,0.26,50538.825399999994
+19,West,Smartphone,Furniture,Retail,December,2023,Salesperson_2,19,1393.79,0.26,19596.6874
+20,East,Accessories,Furniture,Retail,September,2023,Salesperson_20,38,1393.79,0.26,39193.3748
+21,South,Accessories,Furniture,Wholesale,March,2022,Salesperson_12,36,1393.79,0.26,37130.5656
+22,North,Laptop,Office Supplies,Online,February,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+23,South,Laptop,Office Supplies,Online,March,2023,Salesperson_8,30,1393.79,0.26,30942.138
+24,West,Tablet,Office Supplies,Online,December,2022,Salesperson_5,19,1393.79,0.26,19596.6874
+25,West,Laptop,Office Supplies,Online,September,2023,Salesperson_15,49,1393.79,0.26,50538.825399999994
+26,South,Smartphone,Office Supplies,Online,December,2023,Salesperson_1,25,1393.79,0.26,25785.114999999998
+27,South,Accessories,Furniture,Retail,July,2022,Salesperson_1,16,1393.79,0.26,16502.4736
+28,South,Tablet,Furniture,Online,September,2022,Salesperson_10,47,1393.79,0.26,48476.0162
+29,West,Laptop,Furniture,Retail,February,2023,Salesperson_10,40,1393.79,0.26,41256.184
+30,West,Smartphone,Furniture,Retail,May,2022,Salesperson_15,8,1393.79,0.26,8251.2368
+31,North,Smartphone,Office Supplies,Retail,April,2022,Salesperson_17,18,1393.79,0.26,18565.2828
+32,North,Laptop,Office Supplies,Wholesale,February,2022,Salesperson_6,28,1393.79,0.26,28879.328799999996
+33,West,Accessories,Office Supplies,Wholesale,September,2022,Salesperson_3,16,1393.79,0.26,16502.4736
+34,South,Laptop,Electronics,Retail,September,2023,Salesperson_13,19,1393.79,0.26,19596.6874
+35,South,Tablet,Furniture,Wholesale,June,2023,Salesperson_16,42,1393.79,0.26,43318.9932
+36,North,Laptop,Furniture,Online,November,2023,Salesperson_8,17,1393.79,0.26,17533.8782
+37,West,Smartphone,Office Supplies,Online,June,2023,Salesperson_15,45,1393.79,0.26,46413.206999999995
+38,North,Laptop,Furniture,Retail,August,2022,Salesperson_17,13,1393.79,0.26,13408.2598
+39,North,Accessories,Furniture,Online,June,2022,Salesperson_17,7,1393.79,0.26,7219.832199999999
+40,East,Desktop,Office Supplies,Retail,January,2023,Salesperson_13,27,1393.79,0.26,27847.9242
+41,East,Laptop,Electronics,Retail,April,2023,Salesperson_17,10,1393.79,0.26,10314.046
+42,East,Accessories,Electronics,Online,July,2022,Salesperson_6,34,1393.79,0.26,35067.7564
+43,South,Accessories,Electronics,Wholesale,February,2023,Salesperson_17,36,1393.79,0.26,37130.5656
+44,West,Smartphone,Office Supplies,Online,September,2023,Salesperson_16,25,1393.79,0.26,25785.114999999998
+45,West,Accessories,Furniture,Online,August,2022,Salesperson_14,6,1393.79,0.26,6188.4276
+46,West,Accessories,Office Supplies,Retail,August,2023,Salesperson_13,24,1393.79,0.26,24753.7104
+47,West,Accessories,Office Supplies,Retail,July,2022,Salesperson_6,18,1393.79,0.26,18565.2828
+48,East,Accessories,Furniture,Retail,April,2022,Salesperson_3,23,1393.79,0.26,23722.3058
+49,South,Tablet,Electronics,Retail,February,2023,Salesperson_14,6,1393.79,0.26,6188.4276
+50,South,Tablet,Electronics,Wholesale,March,2022,Salesperson_14,29,1393.79,0.26,29910.733399999997
+51,East,Smartphone,Office Supplies,Wholesale,December,2023,Salesperson_15,25,1393.79,0.26,25785.114999999998
+52,South,Laptop,Electronics,Wholesale,June,2022,Salesperson_8,17,1393.79,0.26,17533.8782
+53,East,Accessories,Office Supplies,Retail,December,2023,Salesperson_15,46,1393.79,0.26,47444.6116
+54,West,Laptop,Office Supplies,Retail,December,2023,Salesperson_13,24,1393.79,0.26,24753.7104
+55,East,Laptop,Furniture,Retail,May,2023,Salesperson_17,11,1393.79,0.26,11345.450599999998
+56,West,Smartphone,Furniture,Wholesale,December,2022,Salesperson_3,26,1393.79,0.26,26816.5196
+57,West,Accessories,Furniture,Retail,August,2022,Salesperson_6,34,1393.79,0.26,35067.7564
+58,North,Accessories,Office Supplies,Online,June,2023,Salesperson_5,28,1393.79,0.26,28879.328799999996
+59,East,Desktop,Furniture,Online,June,2022,Salesperson_17,3,1393.79,0.26,3094.2138
+60,North,Laptop,Electronics,Retail,January,2023,Salesperson_2,11,1393.79,0.26,11345.450599999998
+61,East,Laptop,Electronics,Online,April,2023,Salesperson_15,38,1393.79,0.26,39193.3748
+62,East,Tablet,Office Supplies,Online,May,2022,Salesperson_5,14,1393.79,0.26,14439.664399999998
+63,North,Desktop,Office Supplies,Wholesale,December,2023,Salesperson_20,26,1393.79,0.26,26816.5196
+64,North,Tablet,Furniture,Retail,November,2022,Salesperson_6,48,1393.79,0.26,49507.4208
+65,East,Tablet,Office Supplies,Retail,March,2023,Salesperson_6,21,1393.79,0.26,21659.4966
+66,South,Tablet,Office Supplies,Wholesale,September,2022,Salesperson_18,39,1393.79,0.26,40224.7794
+67,West,Smartphone,Electronics,Online,January,2023,Salesperson_18,30,1393.79,0.26,30942.138
+68,North,Smartphone,Electronics,Online,June,2023,Salesperson_4,8,1393.79,0.26,8251.2368
+69,West,Tablet,Furniture,Retail,June,2022,Salesperson_17,20,1393.79,0.26,20628.092
+70,South,Desktop,Office Supplies,Online,October,2023,Salesperson_14,48,1393.79,0.26,49507.4208
+71,South,Laptop,Office Supplies,Wholesale,May,2023,Salesperson_14,32,1393.79,0.26,33004.9472
+72,South,Desktop,Electronics,Wholesale,December,2022,Salesperson_13,22,1393.79,0.26,22690.901199999997
+73,North,Accessories,Office Supplies,Retail,May,2023,Salesperson_7,7,1393.79,0.26,7219.832199999999
+74,South,Smartphone,Electronics,Wholesale,October,2022,Salesperson_12,9,1393.79,0.26,9282.6414
+75,North,Laptop,Furniture,Wholesale,May,2023,Salesperson_15,45,1393.79,0.26,46413.206999999995
+76,South,Laptop,Electronics,Retail,June,2022,Salesperson_19,1,1393.79,0.26,1031.4046
+77,West,Accessories,Office Supplies,Wholesale,August,2023,Salesperson_11,29,1393.79,0.26,29910.733399999997
+78,West,Accessories,Furniture,Wholesale,February,2023,Salesperson_15,8,1393.79,0.26,8251.2368
+79,East,Tablet,Electronics,Wholesale,June,2023,Salesperson_12,4,1393.79,0.26,4125.6184
+80,West,Smartphone,Electronics,Online,January,2022,Salesperson_3,35,1393.79,0.26,36099.161
+81,East,Smartphone,Furniture,Retail,April,2022,Salesperson_17,3,1393.79,0.26,3094.2138
+82,West,Desktop,Furniture,Retail,October,2022,Salesperson_3,45,1393.79,0.26,46413.206999999995
+83,North,Tablet,Electronics,Retail,March,2022,Salesperson_19,40,1393.79,0.26,41256.184
+84,West,Tablet,Office Supplies,Online,September,2023,Salesperson_20,7,1393.79,0.26,7219.832199999999
+85,East,Tablet,Electronics,Online,March,2023,Salesperson_4,27,1393.79,0.26,27847.9242
+86,East,Tablet,Furniture,Retail,June,2022,Salesperson_3,1,1393.79,0.26,1031.4046
+87,South,Smartphone,Electronics,Online,January,2022,Salesperson_16,27,1393.79,0.26,27847.9242
+88,North,Smartphone,Furniture,Retail,December,2022,Salesperson_12,16,1393.79,0.26,16502.4736
+89,West,Tablet,Furniture,Online,June,2023,Salesperson_8,38,1393.79,0.26,39193.3748
+90,South,Desktop,Office Supplies,Wholesale,April,2022,Salesperson_17,7,1393.79,0.26,7219.832199999999
+91,West,Laptop,Furniture,Wholesale,August,2022,Salesperson_7,44,1393.79,0.26,45381.80239999999
+92,West,Laptop,Furniture,Retail,November,2023,Salesperson_11,23,1393.79,0.26,23722.3058
+93,South,Desktop,Office Supplies,Online,September,2023,Salesperson_18,41,1393.79,0.26,42287.588599999995
+94,South,Tablet,Furniture,Online,April,2022,Salesperson_1,11,1393.79,0.26,11345.450599999998
+95,South,Smartphone,Office Supplies,Wholesale,October,2023,Salesperson_3,42,1393.79,0.26,43318.9932
+96,South,Laptop,Office Supplies,Wholesale,December,2022,Salesperson_4,33,1393.79,0.26,34036.3518
+97,South,Accessories,Furniture,Online,October,2023,Salesperson_13,36,1393.79,0.26,37130.5656
+98,West,Accessories,Furniture,Online,June,2022,Salesperson_6,37,1393.79,0.26,38161.970199999996
+99,South,Desktop,Electronics,Online,January,2022,Salesperson_14,41,1393.79,0.26,42287.588599999995
+100,North,Tablet,Office Supplies,Online,April,2022,Salesperson_5,17,1393.79,0.26,17533.8782
+101,East,Laptop,Electronics,Online,July,2022,Salesperson_16,35,1393.79,0.26,36099.161
+102,South,Tablet,Furniture,Online,December,2023,Salesperson_15,48,1393.79,0.26,49507.4208
+103,South,Laptop,Electronics,Retail,January,2023,Salesperson_15,5,1393.79,0.26,5157.023
+104,West,Desktop,Office Supplies,Online,August,2023,Salesperson_4,48,1393.79,0.26,49507.4208
+105,South,Desktop,Electronics,Wholesale,December,2023,Salesperson_8,32,1393.79,0.26,33004.9472
+106,South,Accessories,Office Supplies,Retail,October,2022,Salesperson_16,3,1393.79,0.26,3094.2138
+107,South,Tablet,Furniture,Online,December,2022,Salesperson_16,47,1393.79,0.26,48476.0162
+108,West,Accessories,Furniture,Wholesale,November,2023,Salesperson_4,35,1393.79,0.26,36099.161
+109,South,Tablet,Office Supplies,Retail,June,2023,Salesperson_13,14,1393.79,0.26,14439.664399999998
+110,East,Accessories,Furniture,Wholesale,May,2023,Salesperson_13,48,1393.79,0.26,49507.4208
+111,West,Smartphone,Furniture,Online,October,2023,Salesperson_2,31,1393.79,0.26,31973.542599999997
+112,East,Smartphone,Furniture,Online,November,2023,Salesperson_3,31,1393.79,0.26,31973.542599999997
+113,West,Smartphone,Furniture,Online,September,2022,Salesperson_8,17,1393.79,0.26,17533.8782
+114,South,Smartphone,Office Supplies,Online,February,2022,Salesperson_15,24,1393.79,0.26,24753.7104
+115,East,Laptop,Electronics,Retail,May,2022,Salesperson_11,23,1393.79,0.26,23722.3058
+116,West,Smartphone,Electronics,Retail,June,2023,Salesperson_9,18,1393.79,0.26,18565.2828
+117,North,Desktop,Furniture,Wholesale,July,2023,Salesperson_7,14,1393.79,0.26,14439.664399999998
+118,South,Desktop,Electronics,Online,May,2023,Salesperson_13,15,1393.79,0.26,15471.069
+119,West,Laptop,Electronics,Wholesale,September,2023,Salesperson_2,15,1393.79,0.26,15471.069
+120,North,Smartphone,Furniture,Retail,January,2022,Salesperson_8,6,1393.79,0.26,6188.4276
+121,West,Smartphone,Furniture,Online,July,2022,Salesperson_7,27,1393.79,0.26,27847.9242
+122,North,Smartphone,Electronics,Online,October,2023,Salesperson_12,15,1393.79,0.26,15471.069
+123,South,Accessories,Office Supplies,Retail,July,2022,Salesperson_19,36,1393.79,0.26,37130.5656
+124,East,Tablet,Furniture,Retail,April,2022,Salesperson_7,8,1393.79,0.26,8251.2368
+125,North,Accessories,Office Supplies,Retail,September,2023,Salesperson_10,15,1393.79,0.26,15471.069
+126,West,Tablet,Electronics,Retail,December,2023,Salesperson_16,3,1393.79,0.26,3094.2138
+127,South,Smartphone,Furniture,Retail,November,2023,Salesperson_3,47,1393.79,0.26,48476.0162
+128,North,Smartphone,Office Supplies,Online,May,2023,Salesperson_10,13,1393.79,0.26,13408.2598
+129,West,Accessories,Furniture,Retail,April,2023,Salesperson_6,41,1393.79,0.26,42287.588599999995
+130,West,Accessories,Electronics,Online,July,2023,Salesperson_18,34,1393.79,0.26,35067.7564
+131,West,Tablet,Office Supplies,Online,April,2022,Salesperson_18,24,1393.79,0.26,24753.7104
+132,North,Desktop,Electronics,Retail,March,2022,Salesperson_5,40,1393.79,0.26,41256.184
+133,North,Tablet,Electronics,Retail,September,2023,Salesperson_7,32,1393.79,0.26,33004.9472
+134,North,Accessories,Furniture,Online,November,2022,Salesperson_2,32,1393.79,0.26,33004.9472
+135,East,Accessories,Office Supplies,Retail,August,2023,Salesperson_11,30,1393.79,0.26,30942.138
+136,North,Laptop,Electronics,Retail,January,2023,Salesperson_13,49,1393.79,0.26,50538.825399999994
+137,North,Accessories,Electronics,Retail,July,2023,Salesperson_5,13,1393.79,0.26,13408.2598
+138,North,Laptop,Office Supplies,Wholesale,September,2023,Salesperson_6,1,1393.79,0.26,1031.4046
+139,East,Desktop,Electronics,Online,August,2022,Salesperson_14,34,1393.79,0.26,35067.7564
+140,North,Tablet,Electronics,Wholesale,August,2023,Salesperson_12,15,1393.79,0.26,15471.069
+141,West,Tablet,Office Supplies,Retail,June,2022,Salesperson_4,44,1393.79,0.26,45381.80239999999
+142,North,Laptop,Office Supplies,Wholesale,November,2023,Salesperson_6,14,1393.79,0.26,14439.664399999998
+143,West,Tablet,Office Supplies,Retail,April,2023,Salesperson_10,29,1393.79,0.26,29910.733399999997
+144,West,Accessories,Office Supplies,Wholesale,August,2023,Salesperson_18,34,1393.79,0.26,35067.7564
+145,West,Smartphone,Furniture,Retail,March,2022,Salesperson_15,18,1393.79,0.26,18565.2828
+146,East,Laptop,Office Supplies,Wholesale,September,2023,Salesperson_8,7,1393.79,0.26,7219.832199999999
+147,East,Tablet,Furniture,Wholesale,February,2023,Salesperson_9,29,1393.79,0.26,29910.733399999997
+148,East,Laptop,Furniture,Wholesale,February,2023,Salesperson_5,31,1393.79,0.26,31973.542599999997
+149,North,Laptop,Furniture,Online,December,2022,Salesperson_10,25,1393.79,0.26,25785.114999999998
+150,West,Smartphone,Electronics,Wholesale,December,2022,Salesperson_20,38,1393.79,0.26,39193.3748
+151,East,Accessories,Furniture,Online,July,2022,Salesperson_6,14,1393.79,0.26,14439.664399999998
+152,East,Laptop,Furniture,Retail,December,2023,Salesperson_16,8,1393.79,0.26,8251.2368
+153,North,Tablet,Electronics,Wholesale,October,2022,Salesperson_3,27,1393.79,0.26,27847.9242
+154,East,Desktop,Electronics,Retail,April,2023,Salesperson_10,2,1393.79,0.26,2062.8092
+155,North,Laptop,Electronics,Retail,October,2022,Salesperson_11,17,1393.79,0.26,17533.8782
+156,South,Laptop,Office Supplies,Wholesale,August,2022,Salesperson_11,37,1393.79,0.26,38161.970199999996
+157,East,Smartphone,Electronics,Online,September,2023,Salesperson_17,14,1393.79,0.26,14439.664399999998
+158,South,Accessories,Electronics,Wholesale,July,2022,Salesperson_4,25,1393.79,0.26,25785.114999999998
+159,North,Desktop,Furniture,Retail,May,2023,Salesperson_4,30,1393.79,0.26,30942.138
+160,West,Tablet,Electronics,Retail,August,2023,Salesperson_17,29,1393.79,0.26,29910.733399999997
+161,East,Desktop,Office Supplies,Wholesale,April,2022,Salesperson_9,20,1393.79,0.26,20628.092
+162,North,Tablet,Electronics,Online,February,2023,Salesperson_19,21,1393.79,0.26,21659.4966
+163,West,Accessories,Office Supplies,Online,November,2023,Salesperson_5,22,1393.79,0.26,22690.901199999997
+164,West,Tablet,Electronics,Retail,December,2022,Salesperson_6,35,1393.79,0.26,36099.161
+165,South,Smartphone,Electronics,Retail,June,2022,Salesperson_3,37,1393.79,0.26,38161.970199999996
+166,North,Smartphone,Electronics,Online,September,2023,Salesperson_1,16,1393.79,0.26,16502.4736
+167,West,Smartphone,Electronics,Wholesale,January,2022,Salesperson_20,49,1393.79,0.26,50538.825399999994
+168,East,Smartphone,Office Supplies,Retail,November,2023,Salesperson_16,43,1393.79,0.26,44350.3978
+169,East,Desktop,Office Supplies,Online,October,2023,Salesperson_11,17,1393.79,0.26,17533.8782
+170,South,Accessories,Furniture,Retail,December,2022,Salesperson_13,16,1393.79,0.26,16502.4736
+171,West,Tablet,Office Supplies,Wholesale,July,2022,Salesperson_10,2,1393.79,0.26,2062.8092
+172,North,Tablet,Electronics,Online,October,2022,Salesperson_3,4,1393.79,0.26,4125.6184
+173,East,Smartphone,Furniture,Retail,September,2022,Salesperson_9,21,1393.79,0.26,21659.4966
+174,West,Smartphone,Furniture,Wholesale,October,2023,Salesperson_12,39,1393.79,0.26,40224.7794
+175,West,Laptop,Furniture,Retail,September,2023,Salesperson_14,34,1393.79,0.26,35067.7564
+176,South,Accessories,Electronics,Wholesale,October,2022,Salesperson_1,30,1393.79,0.26,30942.138
+177,East,Desktop,Office Supplies,Wholesale,November,2022,Salesperson_18,6,1393.79,0.26,6188.4276
+178,East,Tablet,Electronics,Online,March,2023,Salesperson_17,17,1393.79,0.26,17533.8782
+179,North,Laptop,Furniture,Wholesale,November,2023,Salesperson_9,39,1393.79,0.26,40224.7794
+180,East,Laptop,Electronics,Retail,May,2023,Salesperson_9,25,1393.79,0.26,25785.114999999998
+181,North,Tablet,Electronics,Wholesale,August,2023,Salesperson_10,5,1393.79,0.26,5157.023
+182,East,Desktop,Office Supplies,Wholesale,August,2022,Salesperson_19,5,1393.79,0.26,5157.023
+183,South,Laptop,Office Supplies,Online,April,2023,Salesperson_15,20,1393.79,0.26,20628.092
+184,East,Laptop,Furniture,Wholesale,December,2023,Salesperson_5,16,1393.79,0.26,16502.4736
+185,North,Accessories,Electronics,Wholesale,November,2022,Salesperson_15,41,1393.79,0.26,42287.588599999995
+186,North,Desktop,Electronics,Retail,November,2023,Salesperson_20,37,1393.79,0.26,38161.970199999996
+187,South,Laptop,Office Supplies,Online,January,2023,Salesperson_2,40,1393.79,0.26,41256.184
+188,East,Desktop,Electronics,Online,January,2022,Salesperson_13,9,1393.79,0.26,9282.6414
+189,East,Tablet,Electronics,Online,April,2022,Salesperson_16,5,1393.79,0.26,5157.023
+190,South,Smartphone,Electronics,Wholesale,June,2022,Salesperson_15,42,1393.79,0.26,43318.9932
+191,East,Laptop,Office Supplies,Online,August,2023,Salesperson_10,2,1393.79,0.26,2062.8092
+192,East,Accessories,Furniture,Wholesale,June,2023,Salesperson_14,9,1393.79,0.26,9282.6414
+193,North,Tablet,Furniture,Wholesale,December,2022,Salesperson_10,43,1393.79,0.26,44350.3978
+194,East,Desktop,Electronics,Retail,September,2022,Salesperson_14,36,1393.79,0.26,37130.5656
+195,East,Tablet,Furniture,Retail,September,2023,Salesperson_9,22,1393.79,0.26,22690.901199999997
+196,South,Laptop,Office Supplies,Retail,February,2022,Salesperson_14,22,1393.79,0.26,22690.901199999997
+197,South,Desktop,Office Supplies,Retail,October,2022,Salesperson_3,22,1393.79,0.26,22690.901199999997
+198,West,Smartphone,Furniture,Retail,January,2022,Salesperson_20,34,1393.79,0.26,35067.7564
+199,North,Tablet,Furniture,Wholesale,February,2023,Salesperson_16,29,1393.79,0.26,29910.733399999997
+200,East,Laptop,Electronics,Wholesale,May,2023,Salesperson_2,38,1393.79,0.26,39193.3748
+201,East,Accessories,Furniture,Online,April,2023,Salesperson_10,46,1393.79,0.26,47444.6116
+202,West,Desktop,Electronics,Wholesale,April,2023,Salesperson_3,33,1393.79,0.26,34036.3518
+203,East,Tablet,Electronics,Wholesale,September,2023,Salesperson_11,18,1393.79,0.26,18565.2828
+204,North,Tablet,Office Supplies,Retail,November,2023,Salesperson_11,7,1393.79,0.26,7219.832199999999
+205,West,Smartphone,Office Supplies,Wholesale,August,2022,Salesperson_13,1,1393.79,0.26,1031.4046
+206,North,Smartphone,Office Supplies,Retail,June,2023,Salesperson_7,33,1393.79,0.26,34036.3518
+207,West,Accessories,Office Supplies,Online,January,2023,Salesperson_17,1,1393.79,0.26,1031.4046
+208,West,Accessories,Furniture,Online,February,2022,Salesperson_2,24,1393.79,0.26,24753.7104
+209,South,Laptop,Office Supplies,Wholesale,June,2023,Salesperson_12,4,1393.79,0.26,4125.6184
+210,North,Laptop,Furniture,Online,November,2023,Salesperson_10,4,1393.79,0.26,4125.6184
+211,East,Accessories,Office Supplies,Wholesale,February,2022,Salesperson_18,18,1393.79,0.26,18565.2828
+212,East,Accessories,Furniture,Online,October,2022,Salesperson_11,27,1393.79,0.26,27847.9242
+213,North,Desktop,Electronics,Retail,May,2022,Salesperson_16,43,1393.79,0.26,44350.3978
+214,East,Smartphone,Furniture,Retail,May,2023,Salesperson_17,32,1393.79,0.26,33004.9472
+215,East,Laptop,Furniture,Retail,June,2022,Salesperson_19,33,1393.79,0.26,34036.3518
+216,North,Smartphone,Office Supplies,Retail,June,2023,Salesperson_18,28,1393.79,0.26,28879.328799999996
+217,West,Smartphone,Furniture,Wholesale,June,2023,Salesperson_3,42,1393.79,0.26,43318.9932
+218,North,Accessories,Electronics,Online,February,2023,Salesperson_16,41,1393.79,0.26,42287.588599999995
+219,West,Desktop,Electronics,Wholesale,October,2023,Salesperson_6,36,1393.79,0.26,37130.5656
+220,East,Tablet,Office Supplies,Retail,March,2022,Salesperson_12,6,1393.79,0.26,6188.4276
+221,East,Desktop,Electronics,Wholesale,June,2022,Salesperson_11,16,1393.79,0.26,16502.4736
+222,East,Desktop,Furniture,Online,August,2023,Salesperson_15,34,1393.79,0.26,35067.7564
+223,South,Smartphone,Electronics,Wholesale,December,2022,Salesperson_15,23,1393.79,0.26,23722.3058
+224,West,Desktop,Office Supplies,Online,November,2023,Salesperson_16,42,1393.79,0.26,43318.9932
+225,South,Laptop,Furniture,Wholesale,December,2023,Salesperson_10,24,1393.79,0.26,24753.7104
+226,South,Smartphone,Office Supplies,Online,January,2023,Salesperson_12,49,1393.79,0.26,50538.825399999994
+227,North,Laptop,Furniture,Online,January,2022,Salesperson_13,13,1393.79,0.26,13408.2598
+228,South,Tablet,Electronics,Retail,November,2023,Salesperson_4,18,1393.79,0.26,18565.2828
+229,North,Smartphone,Office Supplies,Online,February,2023,Salesperson_7,13,1393.79,0.26,13408.2598
+230,North,Tablet,Office Supplies,Retail,November,2022,Salesperson_2,49,1393.79,0.26,50538.825399999994
+231,South,Smartphone,Furniture,Retail,December,2022,Salesperson_15,37,1393.79,0.26,38161.970199999996
+232,West,Accessories,Office Supplies,Retail,December,2022,Salesperson_8,43,1393.79,0.26,44350.3978
+233,West,Desktop,Furniture,Wholesale,June,2022,Salesperson_7,39,1393.79,0.26,40224.7794
+234,West,Accessories,Furniture,Wholesale,September,2023,Salesperson_15,42,1393.79,0.26,43318.9932
+235,West,Tablet,Furniture,Wholesale,April,2022,Salesperson_14,17,1393.79,0.26,17533.8782
+236,West,Desktop,Furniture,Wholesale,March,2023,Salesperson_8,15,1393.79,0.26,15471.069
+237,South,Smartphone,Electronics,Online,December,2022,Salesperson_12,18,1393.79,0.26,18565.2828
+238,South,Desktop,Furniture,Online,August,2022,Salesperson_13,23,1393.79,0.26,23722.3058
+239,East,Laptop,Office Supplies,Wholesale,November,2022,Salesperson_11,30,1393.79,0.26,30942.138
+240,West,Desktop,Electronics,Online,October,2022,Salesperson_17,34,1393.79,0.26,35067.7564
+241,South,Laptop,Office Supplies,Online,September,2022,Salesperson_17,4,1393.79,0.26,4125.6184
+242,East,Desktop,Electronics,Retail,December,2022,Salesperson_4,3,1393.79,0.26,3094.2138
+243,West,Laptop,Furniture,Retail,November,2023,Salesperson_8,7,1393.79,0.26,7219.832199999999
+244,North,Tablet,Electronics,Retail,May,2022,Salesperson_5,18,1393.79,0.26,18565.2828
+245,East,Accessories,Electronics,Retail,September,2022,Salesperson_16,42,1393.79,0.26,43318.9932
+246,South,Smartphone,Office Supplies,Online,February,2022,Salesperson_4,7,1393.79,0.26,7219.832199999999
+247,North,Desktop,Office Supplies,Wholesale,March,2022,Salesperson_15,40,1393.79,0.26,41256.184
+248,North,Accessories,Furniture,Online,July,2023,Salesperson_12,6,1393.79,0.26,6188.4276
+249,North,Smartphone,Electronics,Online,July,2022,Salesperson_5,22,1393.79,0.26,22690.901199999997
+250,East,Smartphone,Electronics,Online,June,2022,Salesperson_16,1,1393.79,0.26,1031.4046
+251,South,Laptop,Electronics,Retail,June,2022,Salesperson_14,4,1393.79,0.26,4125.6184
+252,North,Tablet,Furniture,Retail,February,2022,Salesperson_10,46,1393.79,0.26,47444.6116
+253,West,Tablet,Furniture,Retail,October,2023,Salesperson_7,49,1393.79,0.26,50538.825399999994
+254,North,Accessories,Furniture,Wholesale,June,2022,Salesperson_13,43,1393.79,0.26,44350.3978
+255,North,Tablet,Furniture,Online,April,2023,Salesperson_20,29,1393.79,0.26,29910.733399999997
+256,East,Desktop,Furniture,Wholesale,December,2022,Salesperson_5,21,1393.79,0.26,21659.4966
+257,East,Tablet,Office Supplies,Retail,March,2023,Salesperson_3,26,1393.79,0.26,26816.5196
+258,South,Accessories,Electronics,Wholesale,November,2023,Salesperson_15,14,1393.79,0.26,14439.664399999998
+259,West,Tablet,Electronics,Online,February,2022,Salesperson_4,9,1393.79,0.26,9282.6414
+260,East,Desktop,Electronics,Online,January,2022,Salesperson_15,47,1393.79,0.26,48476.0162
+261,North,Laptop,Electronics,Retail,November,2023,Salesperson_14,12,1393.79,0.26,12376.8552
+262,South,Accessories,Electronics,Retail,November,2023,Salesperson_20,42,1393.79,0.26,43318.9932
+263,North,Laptop,Electronics,Wholesale,May,2022,Salesperson_19,6,1393.79,0.26,6188.4276
+264,North,Laptop,Electronics,Retail,February,2023,Salesperson_13,20,1393.79,0.26,20628.092
+265,East,Laptop,Electronics,Retail,February,2023,Salesperson_10,24,1393.79,0.26,24753.7104
+266,South,Smartphone,Office Supplies,Online,July,2023,Salesperson_5,27,1393.79,0.26,27847.9242
+267,West,Smartphone,Electronics,Retail,August,2022,Salesperson_20,38,1393.79,0.26,39193.3748
+268,West,Laptop,Office Supplies,Retail,October,2023,Salesperson_20,8,1393.79,0.26,8251.2368
+269,East,Accessories,Furniture,Online,August,2023,Salesperson_6,1,1393.79,0.26,1031.4046
+270,East,Desktop,Electronics,Online,April,2023,Salesperson_4,49,1393.79,0.26,50538.825399999994
+271,South,Desktop,Furniture,Wholesale,January,2022,Salesperson_2,49,1393.79,0.26,50538.825399999994
+272,West,Tablet,Furniture,Retail,November,2022,Salesperson_16,24,1393.79,0.26,24753.7104
+273,West,Accessories,Furniture,Online,July,2023,Salesperson_18,47,1393.79,0.26,48476.0162
+274,West,Smartphone,Office Supplies,Wholesale,January,2022,Salesperson_5,7,1393.79,0.26,7219.832199999999
+275,North,Laptop,Furniture,Wholesale,November,2023,Salesperson_4,19,1393.79,0.26,19596.6874
+276,West,Tablet,Furniture,Retail,April,2022,Salesperson_13,22,1393.79,0.26,22690.901199999997
+277,North,Desktop,Furniture,Retail,August,2022,Salesperson_19,35,1393.79,0.26,36099.161
+278,South,Smartphone,Electronics,Wholesale,February,2023,Salesperson_2,30,1393.79,0.26,30942.138
+279,North,Smartphone,Electronics,Online,June,2022,Salesperson_13,29,1393.79,0.26,29910.733399999997
+280,South,Laptop,Office Supplies,Wholesale,June,2022,Salesperson_11,22,1393.79,0.26,22690.901199999997
+281,West,Desktop,Office Supplies,Retail,December,2022,Salesperson_4,11,1393.79,0.26,11345.450599999998
+282,West,Accessories,Electronics,Online,September,2023,Salesperson_20,20,1393.79,0.26,20628.092
+283,South,Smartphone,Office Supplies,Online,May,2022,Salesperson_20,29,1393.79,0.26,29910.733399999997
+284,East,Laptop,Electronics,Wholesale,October,2022,Salesperson_15,41,1393.79,0.26,42287.588599999995
+285,South,Accessories,Furniture,Retail,April,2023,Salesperson_4,42,1393.79,0.26,43318.9932
+286,East,Desktop,Furniture,Wholesale,May,2022,Salesperson_9,34,1393.79,0.26,35067.7564
+287,North,Smartphone,Office Supplies,Wholesale,December,2022,Salesperson_7,1,1393.79,0.26,1031.4046
+288,North,Accessories,Electronics,Wholesale,December,2022,Salesperson_19,31,1393.79,0.26,31973.542599999997
+289,North,Accessories,Electronics,Online,October,2022,Salesperson_19,30,1393.79,0.26,30942.138
+290,West,Accessories,Office Supplies,Online,November,2022,Salesperson_6,48,1393.79,0.26,49507.4208
+291,North,Smartphone,Electronics,Retail,May,2023,Salesperson_6,18,1393.79,0.26,18565.2828
+292,East,Smartphone,Furniture,Retail,August,2023,Salesperson_20,17,1393.79,0.26,17533.8782
+293,North,Tablet,Office Supplies,Wholesale,October,2022,Salesperson_15,38,1393.79,0.26,39193.3748
+294,South,Desktop,Office Supplies,Wholesale,December,2022,Salesperson_15,14,1393.79,0.26,14439.664399999998
+295,South,Laptop,Electronics,Wholesale,August,2022,Salesperson_20,23,1393.79,0.26,23722.3058
+296,West,Accessories,Office Supplies,Retail,February,2023,Salesperson_9,25,1393.79,0.26,25785.114999999998
+297,South,Tablet,Electronics,Online,July,2023,Salesperson_4,15,1393.79,0.26,15471.069
+298,East,Laptop,Electronics,Online,August,2022,Salesperson_18,46,1393.79,0.26,47444.6116
+299,North,Tablet,Electronics,Wholesale,November,2022,Salesperson_18,22,1393.79,0.26,22690.901199999997
+300,West,Smartphone,Electronics,Wholesale,June,2023,Salesperson_5,3,1393.79,0.26,3094.2138
+301,North,Accessories,Electronics,Wholesale,May,2022,Salesperson_20,19,1393.79,0.26,19596.6874
+302,North,Laptop,Office Supplies,Wholesale,November,2023,Salesperson_11,44,1393.79,0.26,45381.80239999999
+303,East,Laptop,Furniture,Retail,September,2023,Salesperson_5,34,1393.79,0.26,35067.7564
+304,South,Laptop,Furniture,Online,March,2022,Salesperson_4,35,1393.79,0.26,36099.161
+305,South,Laptop,Office Supplies,Wholesale,December,2023,Salesperson_12,1,1393.79,0.26,1031.4046
+306,North,Laptop,Office Supplies,Retail,October,2022,Salesperson_2,21,1393.79,0.26,21659.4966
+307,West,Tablet,Furniture,Wholesale,April,2022,Salesperson_13,29,1393.79,0.26,29910.733399999997
+308,South,Accessories,Furniture,Wholesale,September,2022,Salesperson_10,6,1393.79,0.26,6188.4276
+309,West,Smartphone,Furniture,Online,June,2022,Salesperson_9,37,1393.79,0.26,38161.970199999996
+310,South,Smartphone,Furniture,Wholesale,August,2022,Salesperson_10,1,1393.79,0.26,1031.4046
+311,West,Smartphone,Furniture,Online,July,2022,Salesperson_7,1,1393.79,0.26,1031.4046
+312,East,Smartphone,Electronics,Online,November,2023,Salesperson_4,27,1393.79,0.26,27847.9242
+313,West,Tablet,Office Supplies,Online,February,2023,Salesperson_19,21,1393.79,0.26,21659.4966
+314,East,Desktop,Electronics,Retail,March,2023,Salesperson_10,16,1393.79,0.26,16502.4736
+315,East,Accessories,Furniture,Retail,January,2023,Salesperson_3,44,1393.79,0.26,45381.80239999999
+316,West,Laptop,Furniture,Online,September,2022,Salesperson_19,40,1393.79,0.26,41256.184
+317,East,Desktop,Furniture,Wholesale,July,2023,Salesperson_2,26,1393.79,0.26,26816.5196
+318,North,Smartphone,Electronics,Online,January,2023,Salesperson_20,16,1393.79,0.26,16502.4736
+319,East,Desktop,Electronics,Wholesale,March,2023,Salesperson_10,28,1393.79,0.26,28879.328799999996
+320,South,Accessories,Furniture,Online,April,2022,Salesperson_2,1,1393.79,0.26,1031.4046
+321,West,Laptop,Electronics,Wholesale,April,2023,Salesperson_2,36,1393.79,0.26,37130.5656
+322,North,Laptop,Electronics,Retail,May,2022,Salesperson_17,10,1393.79,0.26,10314.046
+323,West,Accessories,Furniture,Wholesale,March,2023,Salesperson_16,43,1393.79,0.26,44350.3978
+324,South,Accessories,Electronics,Online,March,2022,Salesperson_16,17,1393.79,0.26,17533.8782
+325,South,Smartphone,Office Supplies,Retail,January,2022,Salesperson_14,23,1393.79,0.26,23722.3058
+326,South,Laptop,Office Supplies,Wholesale,July,2023,Salesperson_7,7,1393.79,0.26,7219.832199999999
+327,East,Desktop,Office Supplies,Wholesale,November,2022,Salesperson_11,44,1393.79,0.26,45381.80239999999
+328,East,Tablet,Office Supplies,Wholesale,October,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+329,West,Tablet,Furniture,Wholesale,January,2023,Salesperson_11,44,1393.79,0.26,45381.80239999999
+330,West,Accessories,Furniture,Wholesale,February,2023,Salesperson_4,15,1393.79,0.26,15471.069
+331,North,Smartphone,Furniture,Retail,April,2023,Salesperson_7,34,1393.79,0.26,35067.7564
+332,North,Tablet,Office Supplies,Retail,April,2022,Salesperson_15,46,1393.79,0.26,47444.6116
+333,West,Laptop,Office Supplies,Retail,May,2022,Salesperson_18,45,1393.79,0.26,46413.206999999995
+334,East,Accessories,Electronics,Retail,November,2022,Salesperson_12,4,1393.79,0.26,4125.6184
+335,South,Desktop,Electronics,Online,February,2023,Salesperson_17,14,1393.79,0.26,14439.664399999998
+336,West,Accessories,Office Supplies,Retail,April,2022,Salesperson_1,14,1393.79,0.26,14439.664399999998
+337,North,Desktop,Office Supplies,Wholesale,January,2022,Salesperson_11,16,1393.79,0.26,16502.4736
+338,East,Accessories,Office Supplies,Wholesale,February,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+339,West,Accessories,Office Supplies,Retail,January,2022,Salesperson_15,32,1393.79,0.26,33004.9472
+340,West,Accessories,Electronics,Wholesale,October,2022,Salesperson_10,19,1393.79,0.26,19596.6874
+341,East,Desktop,Office Supplies,Retail,October,2022,Salesperson_7,2,1393.79,0.26,2062.8092
+342,West,Desktop,Electronics,Wholesale,April,2022,Salesperson_2,10,1393.79,0.26,10314.046
+343,East,Accessories,Office Supplies,Online,April,2023,Salesperson_10,17,1393.79,0.26,17533.8782
+344,South,Tablet,Office Supplies,Online,July,2023,Salesperson_4,37,1393.79,0.26,38161.970199999996
+345,East,Smartphone,Office Supplies,Retail,October,2023,Salesperson_12,12,1393.79,0.26,12376.8552
+346,East,Smartphone,Electronics,Retail,November,2022,Salesperson_19,6,1393.79,0.26,6188.4276
+347,East,Smartphone,Electronics,Retail,November,2022,Salesperson_11,22,1393.79,0.26,22690.901199999997
+348,West,Desktop,Furniture,Wholesale,September,2023,Salesperson_8,32,1393.79,0.26,33004.9472
+349,West,Desktop,Office Supplies,Retail,September,2022,Salesperson_18,41,1393.79,0.26,42287.588599999995
+350,East,Tablet,Furniture,Online,May,2023,Salesperson_11,20,1393.79,0.26,20628.092
+351,West,Smartphone,Furniture,Wholesale,October,2022,Salesperson_11,1,1393.79,0.26,1031.4046
+352,North,Smartphone,Electronics,Retail,January,2022,Salesperson_13,47,1393.79,0.26,48476.0162
+353,North,Accessories,Electronics,Wholesale,January,2023,Salesperson_3,6,1393.79,0.26,6188.4276
+354,West,Desktop,Furniture,Wholesale,June,2023,Salesperson_12,19,1393.79,0.26,19596.6874
+355,West,Smartphone,Office Supplies,Retail,February,2023,Salesperson_3,18,1393.79,0.26,18565.2828
+356,East,Tablet,Electronics,Wholesale,August,2023,Salesperson_10,6,1393.79,0.26,6188.4276
+357,South,Tablet,Office Supplies,Online,September,2023,Salesperson_17,45,1393.79,0.26,46413.206999999995
+358,West,Smartphone,Office Supplies,Online,April,2022,Salesperson_2,33,1393.79,0.26,34036.3518
+359,North,Desktop,Furniture,Wholesale,May,2022,Salesperson_17,23,1393.79,0.26,23722.3058
+360,East,Tablet,Furniture,Retail,November,2022,Salesperson_16,23,1393.79,0.26,23722.3058
+361,West,Accessories,Furniture,Wholesale,August,2023,Salesperson_2,26,1393.79,0.26,26816.5196
+362,North,Tablet,Furniture,Online,March,2023,Salesperson_20,13,1393.79,0.26,13408.2598
+363,North,Laptop,Electronics,Wholesale,May,2023,Salesperson_6,7,1393.79,0.26,7219.832199999999
+364,South,Laptop,Electronics,Wholesale,March,2023,Salesperson_10,15,1393.79,0.26,15471.069
+365,East,Desktop,Furniture,Online,December,2023,Salesperson_10,44,1393.79,0.26,45381.80239999999
+366,East,Smartphone,Electronics,Wholesale,October,2023,Salesperson_8,27,1393.79,0.26,27847.9242
+367,South,Desktop,Furniture,Wholesale,March,2022,Salesperson_1,26,1393.79,0.26,26816.5196
+368,South,Desktop,Office Supplies,Retail,March,2022,Salesperson_13,33,1393.79,0.26,34036.3518
+369,East,Desktop,Office Supplies,Retail,December,2022,Salesperson_9,15,1393.79,0.26,15471.069
+370,East,Desktop,Office Supplies,Online,July,2022,Salesperson_10,36,1393.79,0.26,37130.5656
+371,West,Accessories,Furniture,Online,July,2022,Salesperson_15,45,1393.79,0.26,46413.206999999995
+372,West,Accessories,Office Supplies,Online,July,2023,Salesperson_5,27,1393.79,0.26,27847.9242
+373,South,Tablet,Electronics,Retail,October,2023,Salesperson_16,5,1393.79,0.26,5157.023
+374,West,Laptop,Office Supplies,Online,August,2023,Salesperson_13,2,1393.79,0.26,2062.8092
+375,North,Desktop,Office Supplies,Online,May,2023,Salesperson_20,33,1393.79,0.26,34036.3518
+376,West,Tablet,Office Supplies,Online,May,2023,Salesperson_18,16,1393.79,0.26,16502.4736
+377,West,Laptop,Electronics,Retail,April,2023,Salesperson_11,23,1393.79,0.26,23722.3058
+378,North,Smartphone,Furniture,Wholesale,July,2022,Salesperson_9,38,1393.79,0.26,39193.3748
+379,South,Accessories,Electronics,Online,October,2023,Salesperson_16,16,1393.79,0.26,16502.4736
+380,North,Laptop,Furniture,Wholesale,April,2023,Salesperson_2,14,1393.79,0.26,14439.664399999998
+381,West,Smartphone,Furniture,Online,February,2023,Salesperson_2,29,1393.79,0.26,29910.733399999997
+382,South,Laptop,Office Supplies,Wholesale,April,2023,Salesperson_12,26,1393.79,0.26,26816.5196
+383,West,Accessories,Furniture,Retail,August,2022,Salesperson_8,35,1393.79,0.26,36099.161
+384,North,Accessories,Electronics,Retail,September,2022,Salesperson_9,15,1393.79,0.26,15471.069
+385,North,Tablet,Electronics,Online,March,2023,Salesperson_12,3,1393.79,0.26,3094.2138
+386,West,Desktop,Furniture,Wholesale,July,2022,Salesperson_9,23,1393.79,0.26,23722.3058
+387,East,Laptop,Office Supplies,Retail,December,2022,Salesperson_10,29,1393.79,0.26,29910.733399999997
+388,East,Laptop,Office Supplies,Online,September,2023,Salesperson_2,34,1393.79,0.26,35067.7564
+389,North,Smartphone,Electronics,Online,November,2023,Salesperson_16,33,1393.79,0.26,34036.3518
+390,North,Accessories,Office Supplies,Retail,April,2023,Salesperson_20,41,1393.79,0.26,42287.588599999995
+391,East,Laptop,Furniture,Retail,October,2023,Salesperson_7,41,1393.79,0.26,42287.588599999995
+392,East,Accessories,Furniture,Online,March,2023,Salesperson_2,23,1393.79,0.26,23722.3058
+393,West,Laptop,Electronics,Wholesale,May,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+394,West,Tablet,Furniture,Wholesale,January,2023,Salesperson_19,3,1393.79,0.26,3094.2138
+395,East,Desktop,Electronics,Wholesale,March,2023,Salesperson_4,32,1393.79,0.26,33004.9472
+396,West,Laptop,Furniture,Online,August,2023,Salesperson_2,31,1393.79,0.26,31973.542599999997
+397,West,Accessories,Electronics,Retail,November,2022,Salesperson_14,18,1393.79,0.26,18565.2828
+398,South,Tablet,Office Supplies,Online,August,2023,Salesperson_2,43,1393.79,0.26,44350.3978
+399,West,Laptop,Furniture,Retail,April,2023,Salesperson_15,7,1393.79,0.26,7219.832199999999
+400,North,Smartphone,Furniture,Wholesale,February,2023,Salesperson_12,41,1393.79,0.26,42287.588599999995
+401,West,Desktop,Electronics,Wholesale,August,2022,Salesperson_5,1,1393.79,0.26,1031.4046
+402,West,Laptop,Electronics,Retail,August,2023,Salesperson_20,14,1393.79,0.26,14439.664399999998
+403,East,Tablet,Furniture,Retail,October,2023,Salesperson_7,32,1393.79,0.26,33004.9472
+404,North,Smartphone,Electronics,Online,April,2023,Salesperson_10,6,1393.79,0.26,6188.4276
+405,West,Tablet,Furniture,Wholesale,March,2022,Salesperson_14,39,1393.79,0.26,40224.7794
+406,West,Tablet,Office Supplies,Online,February,2023,Salesperson_14,10,1393.79,0.26,10314.046
+407,South,Smartphone,Electronics,Online,September,2023,Salesperson_5,7,1393.79,0.26,7219.832199999999
+408,West,Tablet,Furniture,Online,January,2023,Salesperson_18,26,1393.79,0.26,26816.5196
+409,West,Smartphone,Office Supplies,Wholesale,July,2022,Salesperson_14,34,1393.79,0.26,35067.7564
+410,South,Laptop,Office Supplies,Online,May,2023,Salesperson_2,30,1393.79,0.26,30942.138
+411,East,Smartphone,Furniture,Online,August,2023,Salesperson_12,36,1393.79,0.26,37130.5656
+412,West,Smartphone,Electronics,Online,April,2023,Salesperson_6,21,1393.79,0.26,21659.4966
+413,South,Desktop,Furniture,Online,July,2022,Salesperson_4,17,1393.79,0.26,17533.8782
+414,North,Smartphone,Office Supplies,Online,May,2022,Salesperson_13,33,1393.79,0.26,34036.3518
+415,East,Smartphone,Furniture,Online,May,2023,Salesperson_4,10,1393.79,0.26,10314.046
+416,North,Laptop,Electronics,Wholesale,September,2022,Salesperson_14,47,1393.79,0.26,48476.0162
+417,North,Desktop,Office Supplies,Online,September,2022,Salesperson_16,42,1393.79,0.26,43318.9932
+418,South,Accessories,Furniture,Retail,September,2022,Salesperson_4,12,1393.79,0.26,12376.8552
+419,West,Laptop,Electronics,Online,December,2023,Salesperson_1,16,1393.79,0.26,16502.4736
+420,South,Laptop,Office Supplies,Online,June,2023,Salesperson_13,41,1393.79,0.26,42287.588599999995
+421,South,Accessories,Electronics,Wholesale,June,2022,Salesperson_4,32,1393.79,0.26,33004.9472
+422,South,Smartphone,Office Supplies,Wholesale,May,2022,Salesperson_20,15,1393.79,0.26,15471.069
+423,South,Tablet,Furniture,Retail,September,2022,Salesperson_18,27,1393.79,0.26,27847.9242
+424,East,Desktop,Electronics,Retail,October,2023,Salesperson_6,28,1393.79,0.26,28879.328799999996
+425,West,Tablet,Office Supplies,Wholesale,August,2023,Salesperson_3,17,1393.79,0.26,17533.8782
+426,North,Accessories,Electronics,Wholesale,July,2022,Salesperson_13,46,1393.79,0.26,47444.6116
+427,North,Laptop,Electronics,Online,July,2022,Salesperson_16,2,1393.79,0.26,2062.8092
+428,West,Laptop,Furniture,Wholesale,June,2022,Salesperson_5,36,1393.79,0.26,37130.5656
+429,North,Desktop,Electronics,Retail,May,2022,Salesperson_4,7,1393.79,0.26,7219.832199999999
+430,West,Laptop,Office Supplies,Online,April,2023,Salesperson_8,13,1393.79,0.26,13408.2598
+431,North,Laptop,Office Supplies,Retail,March,2022,Salesperson_19,15,1393.79,0.26,15471.069
+432,South,Desktop,Office Supplies,Online,March,2023,Salesperson_14,25,1393.79,0.26,25785.114999999998
+433,North,Desktop,Office Supplies,Wholesale,June,2022,Salesperson_7,23,1393.79,0.26,23722.3058
+434,West,Accessories,Furniture,Retail,April,2022,Salesperson_14,22,1393.79,0.26,22690.901199999997
+435,West,Laptop,Electronics,Online,December,2022,Salesperson_6,26,1393.79,0.26,26816.5196
+436,West,Laptop,Furniture,Online,December,2022,Salesperson_12,33,1393.79,0.26,34036.3518
+437,West,Accessories,Electronics,Wholesale,June,2022,Salesperson_16,11,1393.79,0.26,11345.450599999998
+438,West,Smartphone,Electronics,Wholesale,March,2023,Salesperson_17,10,1393.79,0.26,10314.046
+439,East,Smartphone,Electronics,Wholesale,April,2022,Salesperson_13,25,1393.79,0.26,25785.114999999998
+440,East,Smartphone,Furniture,Retail,September,2022,Salesperson_14,37,1393.79,0.26,38161.970199999996
+441,North,Accessories,Electronics,Online,May,2022,Salesperson_7,48,1393.79,0.26,49507.4208
+442,West,Laptop,Furniture,Wholesale,July,2023,Salesperson_14,43,1393.79,0.26,44350.3978
+443,North,Accessories,Office Supplies,Retail,October,2023,Salesperson_15,38,1393.79,0.26,39193.3748
+444,West,Accessories,Office Supplies,Retail,February,2023,Salesperson_12,41,1393.79,0.26,42287.588599999995
+445,West,Smartphone,Electronics,Retail,May,2023,Salesperson_17,45,1393.79,0.26,46413.206999999995
+446,East,Tablet,Furniture,Wholesale,September,2022,Salesperson_9,24,1393.79,0.26,24753.7104
+447,East,Laptop,Office Supplies,Wholesale,November,2022,Salesperson_15,40,1393.79,0.26,41256.184
+448,South,Smartphone,Furniture,Online,March,2022,Salesperson_12,46,1393.79,0.26,47444.6116
+449,East,Tablet,Furniture,Online,September,2023,Salesperson_2,33,1393.79,0.26,34036.3518
+450,South,Tablet,Electronics,Wholesale,November,2022,Salesperson_5,17,1393.79,0.26,17533.8782
+451,South,Desktop,Office Supplies,Retail,June,2022,Salesperson_13,24,1393.79,0.26,24753.7104
+452,South,Laptop,Electronics,Retail,April,2023,Salesperson_20,37,1393.79,0.26,38161.970199999996
+453,South,Tablet,Electronics,Retail,July,2023,Salesperson_8,2,1393.79,0.26,2062.8092
+454,South,Smartphone,Office Supplies,Online,August,2023,Salesperson_14,32,1393.79,0.26,33004.9472
+455,North,Desktop,Office Supplies,Retail,June,2022,Salesperson_15,24,1393.79,0.26,24753.7104
+456,East,Laptop,Furniture,Online,May,2022,Salesperson_11,9,1393.79,0.26,9282.6414
+457,South,Accessories,Office Supplies,Online,June,2023,Salesperson_1,4,1393.79,0.26,4125.6184
+458,West,Smartphone,Furniture,Retail,May,2022,Salesperson_3,17,1393.79,0.26,17533.8782
+459,East,Tablet,Furniture,Retail,August,2023,Salesperson_17,17,1393.79,0.26,17533.8782
+460,East,Tablet,Furniture,Wholesale,January,2023,Salesperson_19,48,1393.79,0.26,49507.4208
+461,South,Smartphone,Office Supplies,Wholesale,November,2022,Salesperson_14,30,1393.79,0.26,30942.138
+462,North,Tablet,Electronics,Retail,July,2023,Salesperson_8,40,1393.79,0.26,41256.184
+463,South,Desktop,Furniture,Online,October,2023,Salesperson_13,11,1393.79,0.26,11345.450599999998
+464,North,Laptop,Electronics,Online,October,2023,Salesperson_20,21,1393.79,0.26,21659.4966
+465,West,Desktop,Electronics,Online,November,2022,Salesperson_3,21,1393.79,0.26,21659.4966
+466,East,Tablet,Office Supplies,Online,February,2023,Salesperson_5,18,1393.79,0.26,18565.2828
+467,West,Accessories,Electronics,Online,September,2023,Salesperson_9,29,1393.79,0.26,29910.733399999997
+468,North,Laptop,Electronics,Wholesale,January,2023,Salesperson_6,24,1393.79,0.26,24753.7104
+469,North,Laptop,Office Supplies,Retail,November,2023,Salesperson_2,10,1393.79,0.26,10314.046
+470,West,Smartphone,Furniture,Wholesale,October,2023,Salesperson_13,45,1393.79,0.26,46413.206999999995
+471,North,Smartphone,Electronics,Online,June,2023,Salesperson_5,17,1393.79,0.26,17533.8782
+472,West,Accessories,Office Supplies,Online,September,2023,Salesperson_8,18,1393.79,0.26,18565.2828
+473,East,Laptop,Electronics,Online,January,2022,Salesperson_1,42,1393.79,0.26,43318.9932
+474,West,Accessories,Electronics,Online,April,2022,Salesperson_20,48,1393.79,0.26,49507.4208
+475,East,Smartphone,Furniture,Retail,April,2023,Salesperson_12,20,1393.79,0.26,20628.092
+476,West,Smartphone,Electronics,Online,September,2022,Salesperson_11,37,1393.79,0.26,38161.970199999996
+477,North,Laptop,Office Supplies,Retail,November,2022,Salesperson_7,45,1393.79,0.26,46413.206999999995
+478,West,Desktop,Electronics,Online,May,2023,Salesperson_15,18,1393.79,0.26,18565.2828
+479,North,Tablet,Furniture,Retail,May,2022,Salesperson_11,17,1393.79,0.26,17533.8782
+480,West,Smartphone,Furniture,Wholesale,June,2023,Salesperson_16,9,1393.79,0.26,9282.6414
+481,West,Smartphone,Office Supplies,Online,January,2023,Salesperson_3,14,1393.79,0.26,14439.664399999998
+482,South,Desktop,Furniture,Retail,January,2023,Salesperson_20,49,1393.79,0.26,50538.825399999994
+483,North,Desktop,Electronics,Wholesale,September,2023,Salesperson_14,29,1393.79,0.26,29910.733399999997
+484,South,Accessories,Furniture,Online,March,2023,Salesperson_3,31,1393.79,0.26,31973.542599999997
+485,North,Accessories,Office Supplies,Online,April,2022,Salesperson_1,4,1393.79,0.26,4125.6184
+486,South,Tablet,Furniture,Online,January,2023,Salesperson_15,18,1393.79,0.26,18565.2828
+487,East,Tablet,Furniture,Retail,September,2022,Salesperson_1,20,1393.79,0.26,20628.092
+488,West,Laptop,Furniture,Retail,August,2023,Salesperson_17,47,1393.79,0.26,48476.0162
+489,North,Accessories,Office Supplies,Wholesale,February,2023,Salesperson_2,43,1393.79,0.26,44350.3978
+490,North,Smartphone,Furniture,Retail,August,2023,Salesperson_20,44,1393.79,0.26,45381.80239999999
+491,West,Accessories,Furniture,Retail,July,2022,Salesperson_6,9,1393.79,0.26,9282.6414
+492,North,Smartphone,Electronics,Online,November,2023,Salesperson_8,13,1393.79,0.26,13408.2598
+493,North,Desktop,Office Supplies,Online,June,2023,Salesperson_16,15,1393.79,0.26,15471.069
+494,South,Accessories,Furniture,Online,January,2023,Salesperson_19,27,1393.79,0.26,27847.9242
+495,North,Desktop,Office Supplies,Online,July,2023,Salesperson_1,15,1393.79,0.26,15471.069
+496,East,Tablet,Furniture,Online,October,2022,Salesperson_3,28,1393.79,0.26,28879.328799999996
+497,East,Tablet,Furniture,Online,July,2023,Salesperson_3,37,1393.79,0.26,38161.970199999996
+498,West,Laptop,Furniture,Online,September,2022,Salesperson_5,19,1393.79,0.26,19596.6874
+499,North,Accessories,Electronics,Wholesale,January,2023,Salesperson_12,26,1393.79,0.26,26816.5196
+500,West,Desktop,Electronics,Wholesale,February,2022,Salesperson_12,26,1393.79,0.26,26816.5196
+501,East,Smartphone,Electronics,Wholesale,November,2022,Salesperson_20,25,1393.79,0.26,25785.114999999998
+502,North,Tablet,Office Supplies,Wholesale,September,2023,Salesperson_13,26,1393.79,0.26,26816.5196
+503,North,Tablet,Office Supplies,Online,September,2023,Salesperson_20,26,1393.79,0.26,26816.5196
+504,West,Smartphone,Electronics,Wholesale,June,2022,Salesperson_9,46,1393.79,0.26,47444.6116
+505,East,Desktop,Office Supplies,Online,June,2023,Salesperson_7,28,1393.79,0.26,28879.328799999996
+506,North,Desktop,Furniture,Wholesale,April,2023,Salesperson_4,49,1393.79,0.26,50538.825399999994
+507,West,Accessories,Furniture,Retail,April,2023,Salesperson_19,18,1393.79,0.26,18565.2828
+508,East,Accessories,Furniture,Wholesale,May,2022,Salesperson_19,32,1393.79,0.26,33004.9472
+509,West,Laptop,Electronics,Wholesale,March,2023,Salesperson_6,3,1393.79,0.26,3094.2138
+510,South,Tablet,Office Supplies,Online,January,2023,Salesperson_13,2,1393.79,0.26,2062.8092
+511,North,Accessories,Electronics,Wholesale,January,2023,Salesperson_11,33,1393.79,0.26,34036.3518
+512,South,Desktop,Office Supplies,Retail,December,2022,Salesperson_13,42,1393.79,0.26,43318.9932
+513,East,Smartphone,Furniture,Online,July,2023,Salesperson_13,19,1393.79,0.26,19596.6874
+514,South,Desktop,Electronics,Online,January,2022,Salesperson_20,17,1393.79,0.26,17533.8782
+515,South,Tablet,Office Supplies,Wholesale,January,2023,Salesperson_15,44,1393.79,0.26,45381.80239999999
+516,East,Desktop,Office Supplies,Online,March,2022,Salesperson_13,33,1393.79,0.26,34036.3518
+517,West,Laptop,Furniture,Online,October,2023,Salesperson_11,12,1393.79,0.26,12376.8552
+518,South,Tablet,Electronics,Online,April,2023,Salesperson_19,49,1393.79,0.26,50538.825399999994
+519,West,Smartphone,Electronics,Online,April,2022,Salesperson_8,3,1393.79,0.26,3094.2138
+520,South,Laptop,Electronics,Online,February,2022,Salesperson_20,43,1393.79,0.26,44350.3978
+521,West,Tablet,Furniture,Online,January,2022,Salesperson_8,49,1393.79,0.26,50538.825399999994
+522,East,Smartphone,Electronics,Retail,March,2023,Salesperson_10,26,1393.79,0.26,26816.5196
+523,South,Laptop,Furniture,Wholesale,November,2023,Salesperson_16,35,1393.79,0.26,36099.161
+524,East,Laptop,Furniture,Retail,April,2023,Salesperson_19,8,1393.79,0.26,8251.2368
+525,South,Tablet,Furniture,Online,March,2023,Salesperson_11,36,1393.79,0.26,37130.5656
+526,East,Accessories,Office Supplies,Online,August,2022,Salesperson_13,7,1393.79,0.26,7219.832199999999
+527,East,Laptop,Electronics,Wholesale,October,2023,Salesperson_9,46,1393.79,0.26,47444.6116
+528,South,Laptop,Electronics,Retail,January,2023,Salesperson_20,46,1393.79,0.26,47444.6116
+529,South,Smartphone,Furniture,Wholesale,February,2023,Salesperson_19,36,1393.79,0.26,37130.5656
+530,South,Desktop,Furniture,Retail,July,2023,Salesperson_16,16,1393.79,0.26,16502.4736
+531,North,Tablet,Electronics,Online,April,2023,Salesperson_7,24,1393.79,0.26,24753.7104
+532,West,Tablet,Furniture,Wholesale,August,2023,Salesperson_19,1,1393.79,0.26,1031.4046
+533,North,Accessories,Electronics,Wholesale,November,2023,Salesperson_12,49,1393.79,0.26,50538.825399999994
+534,North,Accessories,Office Supplies,Online,March,2022,Salesperson_15,25,1393.79,0.26,25785.114999999998
+535,East,Tablet,Furniture,Wholesale,June,2023,Salesperson_14,10,1393.79,0.26,10314.046
+536,South,Accessories,Electronics,Retail,September,2023,Salesperson_11,16,1393.79,0.26,16502.4736
+537,West,Smartphone,Furniture,Retail,January,2023,Salesperson_10,16,1393.79,0.26,16502.4736
+538,East,Tablet,Electronics,Retail,January,2023,Salesperson_11,8,1393.79,0.26,8251.2368
+539,North,Accessories,Electronics,Retail,August,2022,Salesperson_6,29,1393.79,0.26,29910.733399999997
+540,South,Tablet,Furniture,Online,March,2022,Salesperson_2,39,1393.79,0.26,40224.7794
+541,East,Desktop,Office Supplies,Wholesale,May,2022,Salesperson_11,28,1393.79,0.26,28879.328799999996
+542,South,Laptop,Electronics,Retail,January,2022,Salesperson_19,6,1393.79,0.26,6188.4276
+543,East,Tablet,Electronics,Online,May,2022,Salesperson_6,16,1393.79,0.26,16502.4736
+544,South,Laptop,Electronics,Wholesale,November,2022,Salesperson_14,20,1393.79,0.26,20628.092
+545,North,Accessories,Office Supplies,Wholesale,June,2023,Salesperson_20,16,1393.79,0.26,16502.4736
+546,West,Laptop,Office Supplies,Online,August,2022,Salesperson_6,7,1393.79,0.26,7219.832199999999
+547,North,Tablet,Furniture,Online,March,2022,Salesperson_17,41,1393.79,0.26,42287.588599999995
+548,West,Desktop,Office Supplies,Retail,March,2023,Salesperson_10,14,1393.79,0.26,14439.664399999998
+549,South,Accessories,Furniture,Wholesale,December,2022,Salesperson_1,43,1393.79,0.26,44350.3978
+550,East,Tablet,Furniture,Wholesale,November,2023,Salesperson_3,26,1393.79,0.26,26816.5196
+551,North,Accessories,Office Supplies,Online,November,2023,Salesperson_8,26,1393.79,0.26,26816.5196
+552,West,Smartphone,Furniture,Wholesale,October,2022,Salesperson_8,14,1393.79,0.26,14439.664399999998
+553,North,Laptop,Office Supplies,Retail,September,2023,Salesperson_20,7,1393.79,0.26,7219.832199999999
+554,West,Smartphone,Furniture,Wholesale,April,2022,Salesperson_15,33,1393.79,0.26,34036.3518
+555,North,Tablet,Office Supplies,Online,April,2022,Salesperson_7,26,1393.79,0.26,26816.5196
+556,West,Desktop,Office Supplies,Online,December,2023,Salesperson_11,45,1393.79,0.26,46413.206999999995
+557,West,Accessories,Furniture,Retail,July,2023,Salesperson_7,20,1393.79,0.26,20628.092
+558,South,Laptop,Electronics,Retail,February,2022,Salesperson_4,3,1393.79,0.26,3094.2138
+559,West,Accessories,Furniture,Wholesale,August,2023,Salesperson_12,4,1393.79,0.26,4125.6184
+560,South,Tablet,Office Supplies,Wholesale,June,2023,Salesperson_6,26,1393.79,0.26,26816.5196
+561,West,Accessories,Electronics,Online,March,2022,Salesperson_14,11,1393.79,0.26,11345.450599999998
+562,East,Laptop,Furniture,Retail,September,2022,Salesperson_12,2,1393.79,0.26,2062.8092
+563,East,Tablet,Furniture,Retail,May,2023,Salesperson_11,14,1393.79,0.26,14439.664399999998
+564,East,Accessories,Furniture,Retail,August,2022,Salesperson_19,44,1393.79,0.26,45381.80239999999
+565,West,Desktop,Electronics,Wholesale,July,2022,Salesperson_5,30,1393.79,0.26,30942.138
+566,South,Tablet,Office Supplies,Retail,August,2022,Salesperson_14,49,1393.79,0.26,50538.825399999994
+567,South,Tablet,Furniture,Online,July,2022,Salesperson_16,12,1393.79,0.26,12376.8552
+568,West,Desktop,Furniture,Online,March,2022,Salesperson_13,26,1393.79,0.26,26816.5196
+569,East,Smartphone,Furniture,Wholesale,February,2022,Salesperson_20,44,1393.79,0.26,45381.80239999999
+570,East,Laptop,Furniture,Wholesale,July,2022,Salesperson_4,33,1393.79,0.26,34036.3518
+571,South,Smartphone,Furniture,Retail,March,2023,Salesperson_11,13,1393.79,0.26,13408.2598
+572,East,Accessories,Office Supplies,Wholesale,March,2022,Salesperson_17,14,1393.79,0.26,14439.664399999998
+573,North,Desktop,Office Supplies,Online,February,2023,Salesperson_7,24,1393.79,0.26,24753.7104
+574,South,Smartphone,Furniture,Retail,April,2023,Salesperson_14,34,1393.79,0.26,35067.7564
+575,East,Tablet,Electronics,Online,August,2023,Salesperson_11,44,1393.79,0.26,45381.80239999999
+576,South,Accessories,Office Supplies,Retail,December,2022,Salesperson_9,26,1393.79,0.26,26816.5196
+577,North,Accessories,Electronics,Wholesale,January,2022,Salesperson_13,21,1393.79,0.26,21659.4966
+578,South,Smartphone,Office Supplies,Retail,January,2023,Salesperson_18,28,1393.79,0.26,28879.328799999996
+579,South,Smartphone,Furniture,Retail,December,2022,Salesperson_11,48,1393.79,0.26,49507.4208
+580,South,Desktop,Office Supplies,Online,May,2023,Salesperson_15,36,1393.79,0.26,37130.5656
+581,South,Laptop,Furniture,Online,November,2022,Salesperson_19,40,1393.79,0.26,41256.184
+582,North,Smartphone,Office Supplies,Retail,May,2022,Salesperson_1,2,1393.79,0.26,2062.8092
+583,West,Smartphone,Furniture,Wholesale,November,2023,Salesperson_4,42,1393.79,0.26,43318.9932
+584,South,Tablet,Furniture,Wholesale,December,2023,Salesperson_14,9,1393.79,0.26,9282.6414
+585,South,Accessories,Furniture,Online,January,2023,Salesperson_14,23,1393.79,0.26,23722.3058
+586,East,Laptop,Furniture,Wholesale,June,2022,Salesperson_3,15,1393.79,0.26,15471.069
+587,South,Tablet,Electronics,Online,January,2023,Salesperson_17,13,1393.79,0.26,13408.2598
+588,East,Desktop,Furniture,Wholesale,May,2022,Salesperson_3,23,1393.79,0.26,23722.3058
+589,West,Desktop,Electronics,Retail,September,2022,Salesperson_16,17,1393.79,0.26,17533.8782
+590,North,Smartphone,Electronics,Online,December,2022,Salesperson_14,48,1393.79,0.26,49507.4208
+591,North,Smartphone,Furniture,Online,May,2023,Salesperson_20,2,1393.79,0.26,2062.8092
+592,West,Desktop,Electronics,Retail,June,2023,Salesperson_13,20,1393.79,0.26,20628.092
+593,North,Smartphone,Office Supplies,Online,August,2023,Salesperson_15,20,1393.79,0.26,20628.092
+594,West,Laptop,Furniture,Wholesale,November,2022,Salesperson_14,46,1393.79,0.26,47444.6116
+595,West,Smartphone,Electronics,Wholesale,January,2022,Salesperson_19,3,1393.79,0.26,3094.2138
+596,West,Accessories,Furniture,Online,February,2023,Salesperson_6,12,1393.79,0.26,12376.8552
+597,North,Smartphone,Furniture,Wholesale,September,2022,Salesperson_10,40,1393.79,0.26,41256.184
+598,East,Tablet,Furniture,Online,March,2022,Salesperson_15,2,1393.79,0.26,2062.8092
+599,West,Laptop,Electronics,Retail,June,2023,Salesperson_20,36,1393.79,0.26,37130.5656
+600,South,Tablet,Office Supplies,Online,May,2023,Salesperson_6,14,1393.79,0.26,14439.664399999998
+601,North,Tablet,Office Supplies,Retail,November,2023,Salesperson_10,16,1393.79,0.26,16502.4736
+602,West,Accessories,Electronics,Wholesale,February,2022,Salesperson_7,19,1393.79,0.26,19596.6874
+603,West,Laptop,Furniture,Retail,July,2022,Salesperson_17,34,1393.79,0.26,35067.7564
+604,South,Laptop,Electronics,Wholesale,April,2022,Salesperson_18,44,1393.79,0.26,45381.80239999999
+605,East,Laptop,Electronics,Online,January,2022,Salesperson_17,46,1393.79,0.26,47444.6116
+606,East,Laptop,Electronics,Wholesale,April,2022,Salesperson_9,6,1393.79,0.26,6188.4276
+607,East,Laptop,Furniture,Online,June,2023,Salesperson_10,13,1393.79,0.26,13408.2598
+608,West,Accessories,Electronics,Online,July,2022,Salesperson_10,36,1393.79,0.26,37130.5656
+609,West,Smartphone,Furniture,Retail,July,2022,Salesperson_7,22,1393.79,0.26,22690.901199999997
+610,West,Tablet,Electronics,Retail,July,2022,Salesperson_16,18,1393.79,0.26,18565.2828
+611,North,Laptop,Office Supplies,Retail,March,2023,Salesperson_18,12,1393.79,0.26,12376.8552
+612,South,Smartphone,Electronics,Retail,June,2023,Salesperson_6,30,1393.79,0.26,30942.138
+613,West,Smartphone,Electronics,Wholesale,August,2023,Salesperson_20,40,1393.79,0.26,41256.184
+614,South,Tablet,Office Supplies,Wholesale,April,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+615,South,Accessories,Furniture,Wholesale,August,2023,Salesperson_1,32,1393.79,0.26,33004.9472
+616,East,Desktop,Furniture,Online,February,2023,Salesperson_12,48,1393.79,0.26,49507.4208
+617,North,Desktop,Electronics,Wholesale,October,2023,Salesperson_2,19,1393.79,0.26,19596.6874
+618,West,Smartphone,Office Supplies,Wholesale,September,2022,Salesperson_4,6,1393.79,0.26,6188.4276
+619,East,Tablet,Furniture,Wholesale,September,2023,Salesperson_17,20,1393.79,0.26,20628.092
+620,East,Desktop,Electronics,Retail,August,2022,Salesperson_4,27,1393.79,0.26,27847.9242
+621,West,Smartphone,Office Supplies,Wholesale,October,2022,Salesperson_11,43,1393.79,0.26,44350.3978
+622,South,Accessories,Furniture,Online,October,2023,Salesperson_4,37,1393.79,0.26,38161.970199999996
+623,East,Desktop,Furniture,Retail,January,2022,Salesperson_1,48,1393.79,0.26,49507.4208
+624,South,Smartphone,Office Supplies,Online,February,2023,Salesperson_7,7,1393.79,0.26,7219.832199999999
+625,North,Smartphone,Office Supplies,Wholesale,June,2022,Salesperson_18,5,1393.79,0.26,5157.023
+626,South,Laptop,Office Supplies,Retail,October,2023,Salesperson_9,11,1393.79,0.26,11345.450599999998
+627,North,Accessories,Office Supplies,Online,May,2023,Salesperson_3,15,1393.79,0.26,15471.069
+628,South,Laptop,Electronics,Wholesale,December,2023,Salesperson_8,3,1393.79,0.26,3094.2138
+629,East,Tablet,Office Supplies,Online,September,2022,Salesperson_19,5,1393.79,0.26,5157.023
+630,East,Laptop,Furniture,Online,May,2023,Salesperson_4,23,1393.79,0.26,23722.3058
+631,North,Laptop,Furniture,Online,February,2022,Salesperson_18,37,1393.79,0.26,38161.970199999996
+632,West,Desktop,Electronics,Wholesale,October,2023,Salesperson_20,9,1393.79,0.26,9282.6414
+633,North,Smartphone,Furniture,Wholesale,April,2022,Salesperson_11,15,1393.79,0.26,15471.069
+634,North,Accessories,Furniture,Online,September,2022,Salesperson_14,3,1393.79,0.26,3094.2138
+635,South,Laptop,Office Supplies,Retail,January,2023,Salesperson_18,29,1393.79,0.26,29910.733399999997
+636,South,Accessories,Furniture,Retail,November,2023,Salesperson_16,6,1393.79,0.26,6188.4276
+637,North,Laptop,Electronics,Wholesale,January,2023,Salesperson_3,17,1393.79,0.26,17533.8782
+638,East,Tablet,Office Supplies,Wholesale,December,2023,Salesperson_15,26,1393.79,0.26,26816.5196
+639,South,Laptop,Office Supplies,Wholesale,July,2023,Salesperson_4,21,1393.79,0.26,21659.4966
+640,West,Desktop,Electronics,Wholesale,November,2022,Salesperson_5,8,1393.79,0.26,8251.2368
+641,South,Smartphone,Office Supplies,Wholesale,March,2023,Salesperson_17,21,1393.79,0.26,21659.4966
+642,South,Tablet,Office Supplies,Retail,October,2023,Salesperson_7,11,1393.79,0.26,11345.450599999998
+643,West,Laptop,Electronics,Wholesale,February,2022,Salesperson_16,38,1393.79,0.26,39193.3748
+644,North,Accessories,Office Supplies,Online,September,2023,Salesperson_14,8,1393.79,0.26,8251.2368
+645,West,Tablet,Electronics,Online,March,2023,Salesperson_16,42,1393.79,0.26,43318.9932
+646,North,Tablet,Electronics,Retail,February,2022,Salesperson_7,24,1393.79,0.26,24753.7104
+647,North,Laptop,Furniture,Online,December,2023,Salesperson_9,35,1393.79,0.26,36099.161
+648,North,Tablet,Furniture,Retail,August,2023,Salesperson_4,14,1393.79,0.26,14439.664399999998
+649,West,Accessories,Office Supplies,Retail,October,2023,Salesperson_11,14,1393.79,0.26,14439.664399999998
+650,North,Tablet,Office Supplies,Online,June,2022,Salesperson_2,10,1393.79,0.26,10314.046
+651,East,Accessories,Electronics,Wholesale,June,2023,Salesperson_12,12,1393.79,0.26,12376.8552
+652,West,Laptop,Office Supplies,Online,October,2022,Salesperson_12,38,1393.79,0.26,39193.3748
+653,East,Smartphone,Electronics,Online,November,2023,Salesperson_4,44,1393.79,0.26,45381.80239999999
+654,North,Tablet,Electronics,Retail,July,2022,Salesperson_18,46,1393.79,0.26,47444.6116
+655,South,Smartphone,Office Supplies,Online,July,2023,Salesperson_7,34,1393.79,0.26,35067.7564
+656,North,Accessories,Electronics,Retail,November,2022,Salesperson_1,41,1393.79,0.26,42287.588599999995
+657,East,Tablet,Furniture,Wholesale,June,2022,Salesperson_13,10,1393.79,0.26,10314.046
+658,East,Desktop,Office Supplies,Wholesale,April,2022,Salesperson_6,17,1393.79,0.26,17533.8782
+659,West,Smartphone,Furniture,Wholesale,November,2022,Salesperson_6,17,1393.79,0.26,17533.8782
+660,South,Tablet,Office Supplies,Online,September,2022,Salesperson_12,3,1393.79,0.26,3094.2138
+661,West,Smartphone,Electronics,Retail,June,2022,Salesperson_8,31,1393.79,0.26,31973.542599999997
+662,East,Tablet,Office Supplies,Wholesale,April,2023,Salesperson_19,1,1393.79,0.26,1031.4046
+663,North,Laptop,Furniture,Retail,December,2023,Salesperson_5,12,1393.79,0.26,12376.8552
+664,South,Smartphone,Electronics,Retail,March,2022,Salesperson_18,39,1393.79,0.26,40224.7794
+665,North,Desktop,Office Supplies,Wholesale,April,2022,Salesperson_5,4,1393.79,0.26,4125.6184
+666,North,Desktop,Office Supplies,Wholesale,March,2022,Salesperson_10,42,1393.79,0.26,43318.9932
+667,South,Accessories,Office Supplies,Retail,February,2022,Salesperson_1,13,1393.79,0.26,13408.2598
+668,West,Tablet,Furniture,Wholesale,May,2023,Salesperson_10,34,1393.79,0.26,35067.7564
+669,North,Smartphone,Furniture,Retail,February,2022,Salesperson_5,42,1393.79,0.26,43318.9932
+670,East,Accessories,Office Supplies,Retail,June,2023,Salesperson_12,21,1393.79,0.26,21659.4966
+671,North,Smartphone,Electronics,Wholesale,March,2023,Salesperson_7,22,1393.79,0.26,22690.901199999997
+672,South,Tablet,Electronics,Online,June,2022,Salesperson_9,4,1393.79,0.26,4125.6184
+673,South,Desktop,Furniture,Wholesale,November,2022,Salesperson_12,18,1393.79,0.26,18565.2828
+674,South,Laptop,Electronics,Online,October,2023,Salesperson_1,5,1393.79,0.26,5157.023
+675,West,Desktop,Furniture,Retail,September,2023,Salesperson_11,19,1393.79,0.26,19596.6874
+676,North,Accessories,Office Supplies,Retail,January,2022,Salesperson_15,2,1393.79,0.26,2062.8092
+677,West,Laptop,Furniture,Online,June,2022,Salesperson_2,12,1393.79,0.26,12376.8552
+678,West,Accessories,Furniture,Retail,September,2022,Salesperson_20,17,1393.79,0.26,17533.8782
+679,South,Tablet,Office Supplies,Online,November,2023,Salesperson_7,10,1393.79,0.26,10314.046
+680,South,Laptop,Electronics,Online,April,2023,Salesperson_12,34,1393.79,0.26,35067.7564
+681,West,Accessories,Furniture,Retail,November,2022,Salesperson_18,6,1393.79,0.26,6188.4276
+682,North,Tablet,Furniture,Online,December,2023,Salesperson_3,8,1393.79,0.26,8251.2368
+683,East,Desktop,Office Supplies,Wholesale,February,2023,Salesperson_7,11,1393.79,0.26,11345.450599999998
+684,West,Tablet,Electronics,Wholesale,April,2022,Salesperson_11,12,1393.79,0.26,12376.8552
+685,North,Smartphone,Furniture,Retail,January,2022,Salesperson_18,9,1393.79,0.26,9282.6414
+686,South,Tablet,Office Supplies,Retail,March,2023,Salesperson_12,2,1393.79,0.26,2062.8092
+687,South,Tablet,Furniture,Online,October,2023,Salesperson_6,8,1393.79,0.26,8251.2368
+688,North,Smartphone,Office Supplies,Online,September,2022,Salesperson_5,11,1393.79,0.26,11345.450599999998
+689,East,Accessories,Electronics,Online,October,2022,Salesperson_1,36,1393.79,0.26,37130.5656
+690,South,Accessories,Electronics,Online,May,2022,Salesperson_12,10,1393.79,0.26,10314.046
+691,South,Tablet,Electronics,Wholesale,November,2022,Salesperson_11,21,1393.79,0.26,21659.4966
+692,South,Smartphone,Electronics,Wholesale,June,2022,Salesperson_4,20,1393.79,0.26,20628.092
+693,North,Smartphone,Furniture,Retail,March,2023,Salesperson_18,48,1393.79,0.26,49507.4208
+694,West,Desktop,Furniture,Online,May,2023,Salesperson_4,8,1393.79,0.26,8251.2368
+695,South,Accessories,Electronics,Online,November,2023,Salesperson_17,36,1393.79,0.26,37130.5656
+696,West,Laptop,Electronics,Retail,August,2023,Salesperson_2,29,1393.79,0.26,29910.733399999997
+697,East,Accessories,Electronics,Online,June,2022,Salesperson_2,42,1393.79,0.26,43318.9932
+698,South,Accessories,Furniture,Online,April,2022,Salesperson_12,12,1393.79,0.26,12376.8552
+699,South,Desktop,Electronics,Online,February,2022,Salesperson_6,14,1393.79,0.26,14439.664399999998
+700,East,Laptop,Electronics,Online,September,2023,Salesperson_10,48,1393.79,0.26,49507.4208
+701,South,Desktop,Electronics,Online,December,2023,Salesperson_16,21,1393.79,0.26,21659.4966
+702,West,Laptop,Office Supplies,Retail,January,2023,Salesperson_14,22,1393.79,0.26,22690.901199999997
+703,North,Tablet,Electronics,Online,January,2022,Salesperson_7,21,1393.79,0.26,21659.4966
+704,West,Laptop,Office Supplies,Retail,April,2023,Salesperson_19,44,1393.79,0.26,45381.80239999999
+705,North,Desktop,Office Supplies,Online,July,2022,Salesperson_17,30,1393.79,0.26,30942.138
+706,North,Accessories,Electronics,Wholesale,January,2022,Salesperson_9,39,1393.79,0.26,40224.7794
+707,West,Laptop,Office Supplies,Wholesale,September,2022,Salesperson_13,20,1393.79,0.26,20628.092
+708,West,Laptop,Electronics,Wholesale,April,2022,Salesperson_5,24,1393.79,0.26,24753.7104
+709,West,Smartphone,Furniture,Wholesale,March,2022,Salesperson_5,23,1393.79,0.26,23722.3058
+710,West,Accessories,Furniture,Retail,January,2022,Salesperson_10,7,1393.79,0.26,7219.832199999999
+711,East,Tablet,Furniture,Retail,October,2023,Salesperson_10,9,1393.79,0.26,9282.6414
+712,South,Desktop,Furniture,Online,April,2022,Salesperson_7,1,1393.79,0.26,1031.4046
+713,North,Tablet,Office Supplies,Wholesale,September,2022,Salesperson_15,26,1393.79,0.26,26816.5196
+714,West,Accessories,Electronics,Retail,October,2023,Salesperson_7,38,1393.79,0.26,39193.3748
+715,West,Laptop,Electronics,Online,June,2022,Salesperson_15,38,1393.79,0.26,39193.3748
+716,West,Laptop,Electronics,Online,June,2023,Salesperson_3,44,1393.79,0.26,45381.80239999999
+717,East,Accessories,Furniture,Retail,January,2023,Salesperson_19,22,1393.79,0.26,22690.901199999997
+718,West,Laptop,Furniture,Wholesale,October,2023,Salesperson_10,44,1393.79,0.26,45381.80239999999
+719,West,Laptop,Electronics,Online,February,2022,Salesperson_15,10,1393.79,0.26,10314.046
+720,West,Laptop,Furniture,Wholesale,November,2022,Salesperson_3,6,1393.79,0.26,6188.4276
+721,South,Desktop,Electronics,Wholesale,June,2023,Salesperson_6,17,1393.79,0.26,17533.8782
+722,East,Desktop,Electronics,Wholesale,February,2022,Salesperson_12,38,1393.79,0.26,39193.3748
+723,West,Smartphone,Electronics,Online,March,2022,Salesperson_15,24,1393.79,0.26,24753.7104
+724,North,Tablet,Electronics,Wholesale,April,2023,Salesperson_6,10,1393.79,0.26,10314.046
+725,North,Accessories,Electronics,Online,November,2023,Salesperson_13,8,1393.79,0.26,8251.2368
+726,North,Accessories,Electronics,Wholesale,May,2022,Salesperson_19,21,1393.79,0.26,21659.4966
+727,East,Accessories,Electronics,Online,September,2023,Salesperson_3,6,1393.79,0.26,6188.4276
+728,East,Smartphone,Furniture,Wholesale,December,2023,Salesperson_8,21,1393.79,0.26,21659.4966
+729,North,Desktop,Electronics,Retail,April,2023,Salesperson_8,39,1393.79,0.26,40224.7794
+730,West,Smartphone,Electronics,Wholesale,November,2022,Salesperson_20,24,1393.79,0.26,24753.7104
+731,East,Accessories,Furniture,Wholesale,September,2022,Salesperson_15,33,1393.79,0.26,34036.3518
+732,North,Tablet,Furniture,Online,November,2022,Salesperson_4,18,1393.79,0.26,18565.2828
+733,North,Laptop,Furniture,Online,October,2023,Salesperson_19,28,1393.79,0.26,28879.328799999996
+734,West,Desktop,Electronics,Wholesale,March,2022,Salesperson_3,32,1393.79,0.26,33004.9472
+735,South,Desktop,Office Supplies,Retail,August,2023,Salesperson_13,12,1393.79,0.26,12376.8552
+736,East,Smartphone,Office Supplies,Retail,December,2022,Salesperson_8,48,1393.79,0.26,49507.4208
+737,West,Desktop,Furniture,Online,January,2022,Salesperson_16,42,1393.79,0.26,43318.9932
+738,North,Accessories,Office Supplies,Retail,November,2023,Salesperson_13,27,1393.79,0.26,27847.9242
+739,North,Accessories,Furniture,Wholesale,September,2022,Salesperson_3,10,1393.79,0.26,10314.046
+740,West,Smartphone,Electronics,Online,September,2023,Salesperson_16,46,1393.79,0.26,47444.6116
+741,East,Accessories,Office Supplies,Wholesale,October,2022,Salesperson_9,42,1393.79,0.26,43318.9932
+742,South,Tablet,Electronics,Online,February,2022,Salesperson_14,32,1393.79,0.26,33004.9472
+743,South,Smartphone,Office Supplies,Online,April,2023,Salesperson_13,42,1393.79,0.26,43318.9932
+744,North,Tablet,Electronics,Online,August,2023,Salesperson_7,26,1393.79,0.26,26816.5196
+745,East,Laptop,Office Supplies,Online,July,2023,Salesperson_15,25,1393.79,0.26,25785.114999999998
+746,South,Tablet,Electronics,Retail,January,2022,Salesperson_7,11,1393.79,0.26,11345.450599999998
+747,East,Laptop,Electronics,Wholesale,May,2022,Salesperson_6,23,1393.79,0.26,23722.3058
+748,East,Laptop,Office Supplies,Wholesale,July,2022,Salesperson_2,34,1393.79,0.26,35067.7564
+749,North,Tablet,Electronics,Wholesale,April,2023,Salesperson_9,40,1393.79,0.26,41256.184
+750,South,Smartphone,Electronics,Online,January,2023,Salesperson_17,23,1393.79,0.26,23722.3058
+751,West,Accessories,Electronics,Retail,September,2023,Salesperson_5,29,1393.79,0.26,29910.733399999997
+752,North,Accessories,Office Supplies,Wholesale,May,2022,Salesperson_12,31,1393.79,0.26,31973.542599999997
+753,South,Laptop,Office Supplies,Retail,November,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+754,South,Laptop,Electronics,Online,February,2023,Salesperson_10,40,1393.79,0.26,41256.184
+755,South,Smartphone,Electronics,Wholesale,August,2022,Salesperson_11,33,1393.79,0.26,34036.3518
+756,South,Desktop,Office Supplies,Retail,November,2023,Salesperson_16,21,1393.79,0.26,21659.4966
+757,South,Tablet,Office Supplies,Online,February,2022,Salesperson_14,2,1393.79,0.26,2062.8092
+758,East,Laptop,Electronics,Retail,March,2022,Salesperson_8,18,1393.79,0.26,18565.2828
+759,North,Accessories,Electronics,Wholesale,October,2023,Salesperson_17,47,1393.79,0.26,48476.0162
+760,East,Smartphone,Electronics,Wholesale,January,2022,Salesperson_18,33,1393.79,0.26,34036.3518
+761,West,Tablet,Furniture,Online,November,2022,Salesperson_12,37,1393.79,0.26,38161.970199999996
+762,South,Smartphone,Office Supplies,Online,February,2023,Salesperson_17,34,1393.79,0.26,35067.7564
+763,North,Tablet,Furniture,Online,July,2023,Salesperson_14,20,1393.79,0.26,20628.092
+764,South,Tablet,Office Supplies,Retail,October,2022,Salesperson_16,35,1393.79,0.26,36099.161
+765,North,Laptop,Office Supplies,Retail,February,2023,Salesperson_14,18,1393.79,0.26,18565.2828
+766,East,Smartphone,Office Supplies,Retail,June,2022,Salesperson_9,46,1393.79,0.26,47444.6116
+767,North,Smartphone,Office Supplies,Online,March,2023,Salesperson_4,24,1393.79,0.26,24753.7104
+768,West,Accessories,Office Supplies,Wholesale,April,2022,Salesperson_11,8,1393.79,0.26,8251.2368
+769,West,Accessories,Office Supplies,Wholesale,November,2022,Salesperson_6,30,1393.79,0.26,30942.138
+770,North,Laptop,Office Supplies,Retail,August,2023,Salesperson_15,44,1393.79,0.26,45381.80239999999
+771,North,Laptop,Furniture,Retail,March,2022,Salesperson_5,10,1393.79,0.26,10314.046
+772,North,Desktop,Electronics,Wholesale,October,2022,Salesperson_11,23,1393.79,0.26,23722.3058
+773,North,Accessories,Electronics,Wholesale,June,2023,Salesperson_18,49,1393.79,0.26,50538.825399999994
+774,West,Tablet,Furniture,Retail,January,2023,Salesperson_13,11,1393.79,0.26,11345.450599999998
+775,South,Smartphone,Furniture,Retail,July,2022,Salesperson_11,2,1393.79,0.26,2062.8092
+776,North,Laptop,Furniture,Wholesale,August,2023,Salesperson_14,26,1393.79,0.26,26816.5196
+777,North,Smartphone,Furniture,Online,November,2023,Salesperson_18,36,1393.79,0.26,37130.5656
+778,West,Smartphone,Office Supplies,Retail,August,2022,Salesperson_19,33,1393.79,0.26,34036.3518
+779,West,Desktop,Electronics,Wholesale,March,2022,Salesperson_15,47,1393.79,0.26,48476.0162
+780,East,Accessories,Office Supplies,Wholesale,October,2023,Salesperson_9,13,1393.79,0.26,13408.2598
+781,North,Laptop,Electronics,Wholesale,January,2023,Salesperson_8,40,1393.79,0.26,41256.184
+782,East,Smartphone,Electronics,Wholesale,September,2023,Salesperson_20,25,1393.79,0.26,25785.114999999998
+783,West,Laptop,Furniture,Online,June,2022,Salesperson_1,4,1393.79,0.26,4125.6184
+784,West,Tablet,Office Supplies,Wholesale,November,2022,Salesperson_4,42,1393.79,0.26,43318.9932
+785,South,Desktop,Furniture,Retail,September,2022,Salesperson_14,19,1393.79,0.26,19596.6874
+786,North,Tablet,Office Supplies,Online,July,2022,Salesperson_2,18,1393.79,0.26,18565.2828
+787,East,Laptop,Electronics,Wholesale,January,2022,Salesperson_16,37,1393.79,0.26,38161.970199999996
+788,West,Laptop,Furniture,Online,December,2022,Salesperson_3,30,1393.79,0.26,30942.138
+789,West,Accessories,Furniture,Retail,December,2022,Salesperson_8,19,1393.79,0.26,19596.6874
+790,East,Smartphone,Electronics,Wholesale,January,2023,Salesperson_6,23,1393.79,0.26,23722.3058
+791,South,Smartphone,Electronics,Retail,June,2023,Salesperson_16,16,1393.79,0.26,16502.4736
+792,West,Tablet,Electronics,Wholesale,May,2022,Salesperson_16,1,1393.79,0.26,1031.4046
+793,North,Desktop,Furniture,Wholesale,September,2022,Salesperson_7,12,1393.79,0.26,12376.8552
+794,West,Smartphone,Office Supplies,Wholesale,February,2022,Salesperson_13,24,1393.79,0.26,24753.7104
+795,North,Accessories,Furniture,Wholesale,August,2023,Salesperson_13,34,1393.79,0.26,35067.7564
+796,East,Tablet,Office Supplies,Wholesale,November,2022,Salesperson_5,8,1393.79,0.26,8251.2368
+797,North,Tablet,Furniture,Online,May,2023,Salesperson_20,18,1393.79,0.26,18565.2828
+798,East,Accessories,Furniture,Wholesale,February,2023,Salesperson_18,48,1393.79,0.26,49507.4208
+799,North,Desktop,Electronics,Wholesale,October,2023,Salesperson_15,5,1393.79,0.26,5157.023
+800,East,Accessories,Office Supplies,Online,November,2023,Salesperson_18,26,1393.79,0.26,26816.5196
+801,North,Desktop,Furniture,Online,November,2023,Salesperson_2,30,1393.79,0.26,30942.138
+802,South,Accessories,Furniture,Online,December,2022,Salesperson_10,13,1393.79,0.26,13408.2598
+803,North,Accessories,Electronics,Online,June,2022,Salesperson_13,19,1393.79,0.26,19596.6874
+804,North,Laptop,Electronics,Online,October,2023,Salesperson_18,29,1393.79,0.26,29910.733399999997
+805,South,Tablet,Office Supplies,Online,August,2022,Salesperson_15,3,1393.79,0.26,3094.2138
+806,West,Accessories,Furniture,Wholesale,April,2023,Salesperson_12,26,1393.79,0.26,26816.5196
+807,West,Accessories,Office Supplies,Wholesale,February,2023,Salesperson_15,40,1393.79,0.26,41256.184
+808,North,Smartphone,Furniture,Retail,December,2022,Salesperson_13,12,1393.79,0.26,12376.8552
+809,South,Tablet,Office Supplies,Wholesale,November,2022,Salesperson_18,2,1393.79,0.26,2062.8092
+810,North,Smartphone,Electronics,Wholesale,May,2022,Salesperson_15,11,1393.79,0.26,11345.450599999998
+811,East,Tablet,Furniture,Online,December,2022,Salesperson_11,44,1393.79,0.26,45381.80239999999
+812,East,Smartphone,Office Supplies,Online,February,2022,Salesperson_19,28,1393.79,0.26,28879.328799999996
+813,North,Accessories,Electronics,Wholesale,February,2023,Salesperson_3,18,1393.79,0.26,18565.2828
+814,West,Accessories,Electronics,Retail,June,2022,Salesperson_7,13,1393.79,0.26,13408.2598
+815,West,Laptop,Office Supplies,Online,November,2022,Salesperson_14,37,1393.79,0.26,38161.970199999996
+816,North,Smartphone,Furniture,Wholesale,October,2022,Salesperson_14,22,1393.79,0.26,22690.901199999997
+817,North,Desktop,Furniture,Wholesale,September,2023,Salesperson_13,12,1393.79,0.26,12376.8552
+818,East,Laptop,Electronics,Retail,April,2022,Salesperson_12,2,1393.79,0.26,2062.8092
+819,West,Smartphone,Furniture,Retail,June,2023,Salesperson_9,37,1393.79,0.26,38161.970199999996
+820,North,Smartphone,Furniture,Online,July,2022,Salesperson_1,7,1393.79,0.26,7219.832199999999
+821,East,Laptop,Furniture,Retail,November,2022,Salesperson_19,26,1393.79,0.26,26816.5196
+822,West,Accessories,Electronics,Wholesale,June,2023,Salesperson_11,26,1393.79,0.26,26816.5196
+823,South,Smartphone,Office Supplies,Wholesale,August,2022,Salesperson_19,24,1393.79,0.26,24753.7104
+824,East,Accessories,Furniture,Retail,April,2022,Salesperson_18,12,1393.79,0.26,12376.8552
+825,West,Laptop,Electronics,Retail,December,2023,Salesperson_12,16,1393.79,0.26,16502.4736
+826,West,Accessories,Electronics,Retail,January,2022,Salesperson_1,23,1393.79,0.26,23722.3058
+827,East,Tablet,Office Supplies,Retail,July,2023,Salesperson_19,40,1393.79,0.26,41256.184
+828,South,Desktop,Furniture,Online,March,2023,Salesperson_20,9,1393.79,0.26,9282.6414
+829,East,Smartphone,Furniture,Retail,June,2023,Salesperson_17,32,1393.79,0.26,33004.9472
+830,West,Desktop,Office Supplies,Online,February,2023,Salesperson_5,15,1393.79,0.26,15471.069
+831,North,Accessories,Office Supplies,Wholesale,September,2023,Salesperson_3,37,1393.79,0.26,38161.970199999996
+832,North,Smartphone,Electronics,Retail,January,2022,Salesperson_2,13,1393.79,0.26,13408.2598
+833,East,Accessories,Electronics,Online,June,2022,Salesperson_3,5,1393.79,0.26,5157.023
+834,West,Tablet,Office Supplies,Retail,June,2022,Salesperson_8,11,1393.79,0.26,11345.450599999998
+835,North,Laptop,Furniture,Wholesale,May,2023,Salesperson_16,10,1393.79,0.26,10314.046
+836,West,Smartphone,Electronics,Wholesale,May,2023,Salesperson_6,13,1393.79,0.26,13408.2598
+837,East,Tablet,Electronics,Wholesale,January,2023,Salesperson_13,41,1393.79,0.26,42287.588599999995
+838,North,Tablet,Furniture,Retail,October,2023,Salesperson_16,46,1393.79,0.26,47444.6116
+839,West,Smartphone,Electronics,Retail,December,2022,Salesperson_16,15,1393.79,0.26,15471.069
+840,North,Accessories,Furniture,Online,May,2022,Salesperson_3,42,1393.79,0.26,43318.9932
+841,East,Tablet,Furniture,Wholesale,February,2023,Salesperson_13,7,1393.79,0.26,7219.832199999999
+842,West,Desktop,Furniture,Retail,July,2023,Salesperson_14,40,1393.79,0.26,41256.184
+843,North,Tablet,Office Supplies,Wholesale,March,2022,Salesperson_8,28,1393.79,0.26,28879.328799999996
+844,East,Accessories,Office Supplies,Wholesale,April,2023,Salesperson_12,32,1393.79,0.26,33004.9472
+845,North,Accessories,Office Supplies,Online,March,2023,Salesperson_8,35,1393.79,0.26,36099.161
+846,North,Desktop,Furniture,Online,March,2023,Salesperson_9,15,1393.79,0.26,15471.069
+847,South,Tablet,Furniture,Online,April,2022,Salesperson_1,48,1393.79,0.26,49507.4208
+848,South,Accessories,Office Supplies,Online,May,2022,Salesperson_6,36,1393.79,0.26,37130.5656
+849,East,Smartphone,Electronics,Wholesale,January,2023,Salesperson_19,21,1393.79,0.26,21659.4966
+850,South,Laptop,Furniture,Online,April,2022,Salesperson_11,6,1393.79,0.26,6188.4276
+851,East,Laptop,Electronics,Online,December,2023,Salesperson_11,1,1393.79,0.26,1031.4046
+852,South,Laptop,Electronics,Online,December,2023,Salesperson_13,4,1393.79,0.26,4125.6184
+853,North,Tablet,Furniture,Online,November,2022,Salesperson_11,11,1393.79,0.26,11345.450599999998
+854,East,Desktop,Furniture,Wholesale,August,2023,Salesperson_18,44,1393.79,0.26,45381.80239999999
+855,East,Accessories,Electronics,Online,October,2023,Salesperson_15,26,1393.79,0.26,26816.5196
+856,North,Smartphone,Electronics,Wholesale,July,2022,Salesperson_1,37,1393.79,0.26,38161.970199999996
+857,East,Smartphone,Office Supplies,Retail,September,2023,Salesperson_7,23,1393.79,0.26,23722.3058
+858,East,Tablet,Office Supplies,Wholesale,May,2023,Salesperson_13,29,1393.79,0.26,29910.733399999997
+859,South,Laptop,Furniture,Wholesale,October,2023,Salesperson_12,21,1393.79,0.26,21659.4966
+860,East,Tablet,Office Supplies,Online,April,2022,Salesperson_18,48,1393.79,0.26,49507.4208
+861,West,Desktop,Office Supplies,Retail,August,2023,Salesperson_19,45,1393.79,0.26,46413.206999999995
+862,North,Desktop,Office Supplies,Retail,September,2022,Salesperson_15,45,1393.79,0.26,46413.206999999995
+863,South,Accessories,Office Supplies,Retail,July,2023,Salesperson_8,49,1393.79,0.26,50538.825399999994
+864,South,Accessories,Electronics,Retail,July,2023,Salesperson_19,27,1393.79,0.26,27847.9242
+865,West,Desktop,Furniture,Wholesale,May,2023,Salesperson_10,39,1393.79,0.26,40224.7794
+866,North,Desktop,Office Supplies,Retail,April,2023,Salesperson_7,40,1393.79,0.26,41256.184
+867,North,Desktop,Electronics,Wholesale,October,2022,Salesperson_18,13,1393.79,0.26,13408.2598
+868,South,Tablet,Electronics,Wholesale,January,2022,Salesperson_16,23,1393.79,0.26,23722.3058
+869,East,Desktop,Electronics,Wholesale,October,2023,Salesperson_20,16,1393.79,0.26,16502.4736
+870,South,Smartphone,Office Supplies,Retail,October,2023,Salesperson_6,30,1393.79,0.26,30942.138
+871,North,Laptop,Office Supplies,Online,July,2023,Salesperson_9,4,1393.79,0.26,4125.6184
+872,West,Desktop,Furniture,Online,January,2023,Salesperson_13,40,1393.79,0.26,41256.184
+873,South,Laptop,Office Supplies,Retail,January,2023,Salesperson_8,16,1393.79,0.26,16502.4736
+874,North,Tablet,Office Supplies,Online,May,2023,Salesperson_16,31,1393.79,0.26,31973.542599999997
+875,South,Laptop,Electronics,Online,September,2023,Salesperson_13,42,1393.79,0.26,43318.9932
+876,East,Tablet,Furniture,Wholesale,June,2023,Salesperson_13,25,1393.79,0.26,25785.114999999998
+877,South,Smartphone,Office Supplies,Wholesale,March,2022,Salesperson_17,44,1393.79,0.26,45381.80239999999
+878,South,Tablet,Office Supplies,Retail,March,2022,Salesperson_20,12,1393.79,0.26,12376.8552
+879,North,Tablet,Electronics,Retail,July,2022,Salesperson_5,26,1393.79,0.26,26816.5196
+880,North,Accessories,Electronics,Online,June,2023,Salesperson_17,37,1393.79,0.26,38161.970199999996
+881,North,Desktop,Office Supplies,Wholesale,September,2023,Salesperson_9,48,1393.79,0.26,49507.4208
+882,South,Desktop,Furniture,Retail,June,2023,Salesperson_2,33,1393.79,0.26,34036.3518
+883,East,Smartphone,Furniture,Retail,May,2022,Salesperson_18,28,1393.79,0.26,28879.328799999996
+884,West,Smartphone,Electronics,Retail,October,2023,Salesperson_9,9,1393.79,0.26,9282.6414
+885,West,Desktop,Electronics,Retail,July,2022,Salesperson_6,12,1393.79,0.26,12376.8552
+886,North,Accessories,Office Supplies,Retail,January,2023,Salesperson_11,5,1393.79,0.26,5157.023
+887,North,Desktop,Electronics,Retail,December,2022,Salesperson_6,28,1393.79,0.26,28879.328799999996
+888,South,Accessories,Office Supplies,Online,July,2022,Salesperson_6,35,1393.79,0.26,36099.161
+889,West,Smartphone,Furniture,Wholesale,March,2022,Salesperson_13,5,1393.79,0.26,5157.023
+890,North,Laptop,Furniture,Wholesale,September,2023,Salesperson_11,34,1393.79,0.26,35067.7564
+891,East,Smartphone,Office Supplies,Retail,June,2022,Salesperson_14,46,1393.79,0.26,47444.6116
+892,East,Smartphone,Electronics,Wholesale,September,2023,Salesperson_2,34,1393.79,0.26,35067.7564
+893,North,Tablet,Furniture,Wholesale,May,2023,Salesperson_8,13,1393.79,0.26,13408.2598
+894,North,Tablet,Electronics,Wholesale,July,2023,Salesperson_3,39,1393.79,0.26,40224.7794
+895,West,Tablet,Furniture,Retail,April,2023,Salesperson_3,42,1393.79,0.26,43318.9932
+896,West,Tablet,Office Supplies,Retail,July,2023,Salesperson_1,45,1393.79,0.26,46413.206999999995
+897,South,Accessories,Office Supplies,Wholesale,January,2022,Salesperson_19,48,1393.79,0.26,49507.4208
+898,West,Desktop,Office Supplies,Wholesale,July,2023,Salesperson_18,14,1393.79,0.26,14439.664399999998
+899,East,Laptop,Furniture,Retail,August,2023,Salesperson_17,11,1393.79,0.26,11345.450599999998
+900,East,Smartphone,Electronics,Online,May,2023,Salesperson_20,42,1393.79,0.26,43318.9932
+901,North,Accessories,Electronics,Wholesale,February,2023,Salesperson_13,38,1393.79,0.26,39193.3748
+902,West,Laptop,Electronics,Online,May,2023,Salesperson_3,4,1393.79,0.26,4125.6184
+903,South,Accessories,Furniture,Wholesale,June,2022,Salesperson_1,33,1393.79,0.26,34036.3518
+904,East,Accessories,Furniture,Online,December,2022,Salesperson_4,7,1393.79,0.26,7219.832199999999
+905,East,Smartphone,Furniture,Online,February,2023,Salesperson_13,41,1393.79,0.26,42287.588599999995
+906,South,Desktop,Furniture,Online,June,2022,Salesperson_17,8,1393.79,0.26,8251.2368
+907,South,Tablet,Furniture,Retail,June,2022,Salesperson_11,37,1393.79,0.26,38161.970199999996
+908,East,Desktop,Electronics,Online,January,2023,Salesperson_2,10,1393.79,0.26,10314.046
+909,East,Smartphone,Furniture,Online,January,2022,Salesperson_16,43,1393.79,0.26,44350.3978
+910,South,Smartphone,Furniture,Online,November,2023,Salesperson_2,15,1393.79,0.26,15471.069
+911,East,Smartphone,Electronics,Wholesale,October,2022,Salesperson_19,38,1393.79,0.26,39193.3748
+912,North,Laptop,Furniture,Online,March,2022,Salesperson_19,15,1393.79,0.26,15471.069
+913,North,Desktop,Electronics,Wholesale,October,2022,Salesperson_16,5,1393.79,0.26,5157.023
+914,South,Desktop,Electronics,Online,October,2023,Salesperson_19,29,1393.79,0.26,29910.733399999997
+915,West,Accessories,Office Supplies,Online,December,2022,Salesperson_9,19,1393.79,0.26,19596.6874
+916,South,Accessories,Office Supplies,Retail,March,2022,Salesperson_1,10,1393.79,0.26,10314.046
+917,South,Accessories,Office Supplies,Wholesale,April,2023,Salesperson_10,12,1393.79,0.26,12376.8552
+918,West,Smartphone,Office Supplies,Online,February,2023,Salesperson_19,4,1393.79,0.26,4125.6184
+919,West,Desktop,Furniture,Wholesale,September,2022,Salesperson_1,31,1393.79,0.26,31973.542599999997
+920,West,Smartphone,Office Supplies,Wholesale,October,2023,Salesperson_2,18,1393.79,0.26,18565.2828
+921,North,Laptop,Electronics,Retail,December,2022,Salesperson_16,16,1393.79,0.26,16502.4736
+922,East,Accessories,Furniture,Retail,November,2022,Salesperson_12,40,1393.79,0.26,41256.184
+923,North,Smartphone,Office Supplies,Retail,July,2023,Salesperson_8,36,1393.79,0.26,37130.5656
+924,East,Smartphone,Electronics,Retail,July,2023,Salesperson_18,25,1393.79,0.26,25785.114999999998
+925,North,Laptop,Furniture,Retail,June,2023,Salesperson_2,23,1393.79,0.26,23722.3058
+926,East,Tablet,Furniture,Retail,March,2022,Salesperson_13,12,1393.79,0.26,12376.8552
+927,North,Desktop,Office Supplies,Retail,June,2023,Salesperson_6,34,1393.79,0.26,35067.7564
+928,West,Tablet,Furniture,Retail,December,2022,Salesperson_6,36,1393.79,0.26,37130.5656
+929,South,Accessories,Electronics,Online,August,2023,Salesperson_9,37,1393.79,0.26,38161.970199999996
+930,North,Smartphone,Furniture,Wholesale,August,2022,Salesperson_16,3,1393.79,0.26,3094.2138
+931,East,Laptop,Electronics,Retail,November,2023,Salesperson_11,9,1393.79,0.26,9282.6414
+932,West,Laptop,Furniture,Retail,September,2022,Salesperson_7,18,1393.79,0.26,18565.2828
+933,North,Desktop,Office Supplies,Wholesale,January,2023,Salesperson_10,43,1393.79,0.26,44350.3978
+934,North,Tablet,Electronics,Online,January,2022,Salesperson_10,35,1393.79,0.26,36099.161
+935,West,Desktop,Furniture,Wholesale,March,2023,Salesperson_20,34,1393.79,0.26,35067.7564
+936,North,Smartphone,Furniture,Wholesale,March,2023,Salesperson_18,41,1393.79,0.26,42287.588599999995
+937,South,Desktop,Furniture,Retail,October,2022,Salesperson_20,14,1393.79,0.26,14439.664399999998
+938,North,Laptop,Electronics,Wholesale,August,2023,Salesperson_9,4,1393.79,0.26,4125.6184
+939,South,Laptop,Electronics,Wholesale,October,2022,Salesperson_15,29,1393.79,0.26,29910.733399999997
+940,South,Accessories,Electronics,Retail,January,2022,Salesperson_4,41,1393.79,0.26,42287.588599999995
+941,West,Accessories,Office Supplies,Retail,February,2023,Salesperson_8,45,1393.79,0.26,46413.206999999995
+942,North,Smartphone,Office Supplies,Retail,February,2022,Salesperson_9,15,1393.79,0.26,15471.069
+943,West,Tablet,Electronics,Retail,March,2023,Salesperson_13,28,1393.79,0.26,28879.328799999996
+944,North,Desktop,Furniture,Wholesale,June,2023,Salesperson_9,42,1393.79,0.26,43318.9932
+945,North,Smartphone,Office Supplies,Wholesale,January,2022,Salesperson_4,16,1393.79,0.26,16502.4736
+946,East,Accessories,Electronics,Online,February,2023,Salesperson_17,12,1393.79,0.26,12376.8552
+947,North,Desktop,Furniture,Online,January,2022,Salesperson_16,5,1393.79,0.26,5157.023
+948,West,Accessories,Office Supplies,Wholesale,May,2022,Salesperson_15,34,1393.79,0.26,35067.7564
+949,South,Desktop,Furniture,Online,July,2023,Salesperson_3,42,1393.79,0.26,43318.9932
+950,North,Tablet,Furniture,Wholesale,August,2023,Salesperson_20,1,1393.79,0.26,1031.4046
+951,East,Smartphone,Furniture,Online,October,2022,Salesperson_5,39,1393.79,0.26,40224.7794
+952,West,Desktop,Furniture,Retail,January,2022,Salesperson_5,32,1393.79,0.26,33004.9472
+953,North,Laptop,Office Supplies,Online,July,2023,Salesperson_20,26,1393.79,0.26,26816.5196
+954,West,Laptop,Office Supplies,Retail,May,2023,Salesperson_15,17,1393.79,0.26,17533.8782
+955,East,Desktop,Office Supplies,Retail,October,2023,Salesperson_18,48,1393.79,0.26,49507.4208
+956,East,Desktop,Electronics,Retail,January,2023,Salesperson_15,27,1393.79,0.26,27847.9242
+957,West,Desktop,Office Supplies,Retail,March,2022,Salesperson_2,24,1393.79,0.26,24753.7104
+958,North,Laptop,Furniture,Online,July,2023,Salesperson_13,35,1393.79,0.26,36099.161
+959,South,Laptop,Office Supplies,Wholesale,October,2022,Salesperson_4,46,1393.79,0.26,47444.6116
+960,East,Desktop,Furniture,Retail,January,2022,Salesperson_10,42,1393.79,0.26,43318.9932
+961,North,Accessories,Electronics,Online,July,2023,Salesperson_13,39,1393.79,0.26,40224.7794
+962,North,Accessories,Furniture,Retail,May,2022,Salesperson_10,26,1393.79,0.26,26816.5196
+963,South,Tablet,Furniture,Online,January,2023,Salesperson_9,49,1393.79,0.26,50538.825399999994
+964,East,Smartphone,Furniture,Online,January,2022,Salesperson_8,38,1393.79,0.26,39193.3748
+965,East,Accessories,Electronics,Online,January,2023,Salesperson_3,23,1393.79,0.26,23722.3058
+966,North,Laptop,Office Supplies,Wholesale,November,2022,Salesperson_16,22,1393.79,0.26,22690.901199999997
+967,North,Accessories,Office Supplies,Online,September,2022,Salesperson_14,4,1393.79,0.26,4125.6184
+968,South,Tablet,Electronics,Online,November,2023,Salesperson_9,49,1393.79,0.26,50538.825399999994
+969,South,Tablet,Furniture,Wholesale,March,2023,Salesperson_11,9,1393.79,0.26,9282.6414
+970,East,Smartphone,Office Supplies,Wholesale,May,2022,Salesperson_3,4,1393.79,0.26,4125.6184
+971,West,Accessories,Electronics,Online,November,2022,Salesperson_5,7,1393.79,0.26,7219.832199999999
+972,East,Laptop,Office Supplies,Wholesale,October,2023,Salesperson_10,23,1393.79,0.26,23722.3058
+973,North,Laptop,Electronics,Retail,December,2022,Salesperson_13,2,1393.79,0.26,2062.8092
+974,East,Desktop,Furniture,Retail,September,2023,Salesperson_4,49,1393.79,0.26,50538.825399999994
+975,West,Laptop,Office Supplies,Wholesale,June,2022,Salesperson_13,24,1393.79,0.26,24753.7104
+976,South,Smartphone,Electronics,Wholesale,December,2023,Salesperson_12,40,1393.79,0.26,41256.184
+977,West,Smartphone,Office Supplies,Online,September,2022,Salesperson_5,31,1393.79,0.26,31973.542599999997
+978,West,Laptop,Office Supplies,Wholesale,August,2023,Salesperson_10,47,1393.79,0.26,48476.0162
+979,West,Laptop,Office Supplies,Online,August,2023,Salesperson_9,31,1393.79,0.26,31973.542599999997
+980,South,Desktop,Office Supplies,Retail,January,2022,Salesperson_20,47,1393.79,0.26,48476.0162
+981,West,Laptop,Electronics,Wholesale,September,2023,Salesperson_7,40,1393.79,0.26,41256.184
+982,West,Desktop,Furniture,Online,June,2022,Salesperson_2,48,1393.79,0.26,49507.4208
+983,West,Desktop,Electronics,Online,September,2023,Salesperson_7,43,1393.79,0.26,44350.3978
+984,North,Laptop,Electronics,Retail,March,2023,Salesperson_8,34,1393.79,0.26,35067.7564
+985,West,Tablet,Electronics,Wholesale,December,2023,Salesperson_7,24,1393.79,0.26,24753.7104
+986,South,Tablet,Furniture,Retail,March,2022,Salesperson_14,49,1393.79,0.26,50538.825399999994
+987,West,Desktop,Office Supplies,Online,June,2023,Salesperson_19,26,1393.79,0.26,26816.5196
+988,West,Laptop,Office Supplies,Online,September,2022,Salesperson_5,16,1393.79,0.26,16502.4736
+989,South,Tablet,Office Supplies,Wholesale,July,2023,Salesperson_18,47,1393.79,0.26,48476.0162
+990,West,Laptop,Furniture,Online,March,2022,Salesperson_20,13,1393.79,0.26,13408.2598
+991,South,Laptop,Office Supplies,Wholesale,March,2022,Salesperson_12,15,1393.79,0.26,15471.069
+992,West,Laptop,Furniture,Retail,February,2022,Salesperson_17,27,1393.79,0.26,27847.9242
+993,South,Accessories,Office Supplies,Wholesale,September,2023,Salesperson_13,4,1393.79,0.26,4125.6184
+994,West,Laptop,Office Supplies,Wholesale,March,2022,Salesperson_2,16,1393.79,0.26,16502.4736
+995,West,Accessories,Electronics,Online,November,2023,Salesperson_13,30,1393.79,0.26,30942.138
+996,North,Desktop,Furniture,Online,May,2022,Salesperson_7,44,1393.79,0.26,45381.80239999999
+997,North,Tablet,Electronics,Wholesale,September,2022,Salesperson_10,30,1393.79,0.26,30942.138
+998,West,Tablet,Electronics,Online,August,2022,Salesperson_6,36,1393.79,0.26,37130.5656
+999,West,Tablet,Electronics,Online,February,2022,Salesperson_3,3,1393.79,0.26,3094.2138
+1000,East,Tablet,Furniture,Online,March,2023,Salesperson_3,22,1393.79,0.26,22690.901199999997
